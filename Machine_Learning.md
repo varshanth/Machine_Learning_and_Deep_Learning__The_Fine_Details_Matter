@@ -32,6 +32,7 @@ https://www.mathsisfun.com/calculus/differentiable.html
 2. https://www.youtube.com/watch?v=spNpfmWZBmg
 
 ### Hard & Soft Margin Support Vector Machines & KKT Conditions
+Warning: These links might contain kernel concepts which are covered in the next section. So you might want to ignore kernels until you read that.
 * Prof. Alexander Ihler
 1. Part 1: https://www.youtube.com/watch?v=IOetFPgsMUc
 2. Part 2: https://www.youtube.com/watch?v=1aQLEzeGJC8
@@ -39,6 +40,14 @@ https://www.mathsisfun.com/calculus/differentiable.html
 
 * MLPR: SVM by Prof. Coryn Bailer-Jones: http://www.mpia.de/homes/calj/ss2007_mlpr/course/support_vector_machines.odp.pdf
 * A bit complicated but if you have seen the above, you will understand this: A Tutorial on SVM for Pattern Recognition by Christopher J.C Burges: www.cmap.polytechnique.fr/~mallat/papiers/svmtutorial.pdf
+
+* Advanced: v-SVM: A Tutorial on v-SVM by Chen et. al: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.407.9879&rep=rep1&type=pdf
+
+### Kernels
+* Prof. Alexander Ihler: https://www.youtube.com/watch?v=OmTu0fqUsQk
+* The Kernel Trick - Udacity : https://www.youtube.com/watch?v=N_r9oJxSuRs
+* Representer Theorem, Kernel Examples and Proofs by Prof. Peter Bartlett: https://people.eecs.berkeley.edu/~bartlett/courses/281b-sp08/8.pdf
+*  Positive Definite Kernels, RKHS, Representer Theorem: NPTEL - Prof. P.S Sastry : https://www.youtube.com/watch?v=_dyUl_luJl4
 
 ### Basic Feedforward Neural Networks
 * Just words: http://www.explainthatstuff.com/introduction-to-neural-networks.html
