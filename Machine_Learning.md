@@ -1,4 +1,5 @@
 ## Machine Learning
+* These resources are not mine and I do not claim that I have written them. All the resources listed here can be found publicly.
 
 ### Winnow & Perceptron:
 * J. Kivinen, M.K. Warmuth, P. Auer, The perceptron algorithm versus winnow: linear versus logarithmic mistake bounds when few input variables are relevant, In Artificial Intelligence, Volume 97, Issues 1–2, 1997, Pages 325-343, ISSN 0004-3702, https://doi.org/10.1016/S0004-3702(97)00039-8. (http://www.sciencedirect.com/science/article/pii/S0004370297000398)
@@ -20,7 +21,7 @@
 * Bernoulli Distribution: https://en.wikipedia.org/wiki/Bernoulli_distribution
 * Logits: https://stats.stackexchange.com/questions/52825/what-does-the-logit-value-actually-mean
 * Logits & Log-odds: https://stats.idre.ucla.edu/stata/faq/how-do-i-interpret-odds-ratios-in-logistic-regression/
-* Likelihood Function for Logistic Regression: http://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch12.pdf
+* Likelihood Function for Logistic Regression: Cosma Shalizi's 2012 Lecture: http://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch12.pdf
 * Simple Derivation of Logistic Regression: http://www.win-vector.com/blog/2011/09/the-simpler-derivation-of-logistic-regression/
 
 ### Nearest Neighbors
@@ -33,11 +34,14 @@
 * Just words: http://www.explainthatstuff.com/introduction-to-neural-networks.html
 * Words with a bit of math: https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/
 
-### Hard Margin & Soft Margin Support Vector Machines
+### Hard & Soft Margin Support Vector Machines & KKT Conditions
 * Prof. Alexander Ihler
 1. Part 1: https://www.youtube.com/watch?v=IOetFPgsMUc
 2. Part 2: https://www.youtube.com/watch?v=1aQLEzeGJC8
-* Prof. Patrick Winston: https://www.youtube.com/watch?v=_PwhiWxHK8o
+* Prof. Patrick Winston: https://www.youtube.com/watch?v=_PwhiWxHK8o 
+
+* MLPR: SVM by Coryn Bailer-Jones: http://www.mpia.de/homes/calj/ss2007_mlpr/course/support_vector_machines.odp.pdf
+* A bit complicated but if you have seen the above, you will understand this: A Tutorial on SVM for Pattern Recognition by Christopher J.C Burges: www.cmap.polytechnique.fr/~mallat/papiers/svmtutorial.pdf
 
 #### Backpropagation
 * Intuition: https://www.youtube.com/watch?v=Ilg3gGewQ5U
