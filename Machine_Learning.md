@@ -25,14 +25,18 @@
 
 ### Nearest Neighbors
 * The only resource you will ever need to understand: Victor Lavrenko's: https://www.youtube.com/playlist?list=PLBv09BD7ez_68OwSB97WXyIOvvI5nqi-3
-* Mahalanobis Distance: i) https://www.youtube.com/watch?v=3IdvoI8O9hU ii) https://www.youtube.com/watch?v=spNpfmWZBmg
+* Mahalanobis Distance:
+1. https://www.youtube.com/watch?v=3IdvoI8O9hU
+2. https://www.youtube.com/watch?v=spNpfmWZBmg
 
 ### Basic Feedforward Neural Networks
 * Just words: http://www.explainthatstuff.com/introduction-to-neural-networks.html
 * Words with a bit of math: https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/
 
 ### Hard Margin & Soft Margin Support Vector Machines
-* Prof. Alexander Ihler i) Part 1: https://www.youtube.com/watch?v=IOetFPgsMUc ii) Part 2: https://www.youtube.com/watch?v=1aQLEzeGJC8
+* Prof. Alexander Ihler
+1. Part 1: https://www.youtube.com/watch?v=IOetFPgsMUc
+2. Part 2: https://www.youtube.com/watch?v=1aQLEzeGJC8
 * Prof. Patrick Winston: https://www.youtube.com/watch?v=_PwhiWxHK8o
 
 #### Backpropagation
