@@ -23,7 +23,7 @@
 * Likelihood Function for Logistic Regression: http://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch12.pdf
 * Simple Derivation of Logistic Regression: http://www.win-vector.com/blog/2011/09/the-simpler-derivation-of-logistic-regression/
 
-## Nearest Neighbors
+### Nearest Neighbors
 * The only resource you will ever need to understand: Victor Lavrenko's: https://www.youtube.com/playlist?list=PLBv09BD7ez_68OwSB97WXyIOvvI5nqi-3
 * Mahalanobis Distance: i) https://www.youtube.com/watch?v=3IdvoI8O9hU ii) https://www.youtube.com/watch?v=spNpfmWZBmg
 
