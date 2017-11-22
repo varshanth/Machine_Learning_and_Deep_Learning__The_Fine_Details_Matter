@@ -21,11 +21,11 @@
 * Bernoulli Distribution: https://en.wikipedia.org/wiki/Bernoulli_distribution
 * Logits: https://stats.stackexchange.com/questions/52825/what-does-the-logit-value-actually-mean
 * Logits & Log-odds: https://stats.idre.ucla.edu/stata/faq/how-do-i-interpret-odds-ratios-in-logistic-regression/
-* Likelihood Function for Logistic Regression: Cosma Shalizi's 2012 Lecture: http://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch12.pdf
+* Likelihood Function for Logistic Regression: Prof. Cosma Shalizi's 2012 Lecture: http://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch12.pdf
 * Simple Derivation of Logistic Regression: http://www.win-vector.com/blog/2011/09/the-simpler-derivation-of-logistic-regression/
 
 ### Nearest Neighbors
-* The only resource you will ever need to understand: Victor Lavrenko's: https://www.youtube.com/playlist?list=PLBv09BD7ez_68OwSB97WXyIOvvI5nqi-3
+* The only resource you will ever need to understand: Prof. Victor Lavrenko's: https://www.youtube.com/playlist?list=PLBv09BD7ez_68OwSB97WXyIOvvI5nqi-3
 * Mahalanobis Distance:
 1. https://www.youtube.com/watch?v=3IdvoI8O9hU
 2. https://www.youtube.com/watch?v=spNpfmWZBmg
@@ -40,7 +40,7 @@
 2. Part 2: https://www.youtube.com/watch?v=1aQLEzeGJC8
 * Prof. Patrick Winston: https://www.youtube.com/watch?v=_PwhiWxHK8o 
 
-* MLPR: SVM by Coryn Bailer-Jones: http://www.mpia.de/homes/calj/ss2007_mlpr/course/support_vector_machines.odp.pdf
+* MLPR: SVM by Prof. Coryn Bailer-Jones: http://www.mpia.de/homes/calj/ss2007_mlpr/course/support_vector_machines.odp.pdf
 * A bit complicated but if you have seen the above, you will understand this: A Tutorial on SVM for Pattern Recognition by Christopher J.C Burges: www.cmap.polytechnique.fr/~mallat/papiers/svmtutorial.pdf
 
 #### Backpropagation
