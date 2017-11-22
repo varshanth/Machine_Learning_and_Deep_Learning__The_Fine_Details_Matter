@@ -31,7 +31,8 @@ https://www.mathsisfun.com/calculus/differentiable.html
 * Simple Derivation of Logistic Regression: http://www.win-vector.com/blog/2011/09/the-simpler-derivation-of-logistic-regression/
 
 ### Nearest Neighbors
-* The only resource you will ever need to understand: Prof. Victor Lavrenko's: https://www.youtube.com/playlist?list=PLBv09BD7ez_68OwSB97WXyIOvvI5nqi-3
+* The only resource you will ever need to understand: Prof. Victor Lavrenko's:
+https://www.youtube.com/playlist?list=PLBv09BD7ez_68OwSB97WXyIOvvI5nqi-3
 * Mahalanobis Distance:
 1. https://www.youtube.com/watch?v=3IdvoI8O9hU
 2. https://www.youtube.com/watch?v=spNpfmWZBmg
