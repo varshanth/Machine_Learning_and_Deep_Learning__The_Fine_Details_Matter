@@ -16,7 +16,7 @@
 * Derivation of the soft thresholding operator: https://math.stackexchange.com/questions/471339/derivation-of-soft-thresholding-operator
 * Diffentiable criteria: When can I say a function is differentiable? Useful for the understanding the soft thresholding operator -  https://www.mathsisfun.com/calculus/differentiable.html
 
-## Logistic Regression
+### Logistic Regression
 * Bernoulli Distribution: https://en.wikipedia.org/wiki/Bernoulli_distribution
 * Logits: https://stats.stackexchange.com/questions/52825/what-does-the-logit-value-actually-mean
 * Logits & Log-odds: https://stats.idre.ucla.edu/stata/faq/how-do-i-interpret-odds-ratios-in-logistic-regression/
