@@ -20,7 +20,7 @@ https://www.youtube.com/watch?v=sO4ZirJh9ds&list=PLkWzaBlA7utJMRi89i9FAKMopL0h0L
 http://www.onmyphd.com/?p=proximal.operator
 * Derivation of the soft thresholding operator:
 https://math.stackexchange.com/questions/471339/derivation-of-soft-thresholding-operator
-* Diffentiable criteria: When can I say a function is differentiable? Useful for the understanding the soft thresholding operator:
+* Differentiable criteria: When can I say a function is differentiable? Useful for the understanding the soft thresholding operator:
 https://www.mathsisfun.com/calculus/differentiable.html
 
 ### Logistic Regression
@@ -42,14 +42,20 @@ Warning: These links might contain kernel concepts which are covered in the next
 * Prof. Alexander Ihler
 1. Part 1: https://www.youtube.com/watch?v=IOetFPgsMUc
 2. Part 2: https://www.youtube.com/watch?v=1aQLEzeGJC8
-* Prof. Patrick Winston: https://www.youtube.com/watch?v=_PwhiWxHK8o 
+* Prof. Patrick Winston: https://www.youtube.com/watch?v=_PwhiWxHK8o
 
+* Dual SVM & Kernels by Bert Huang: https://www.youtube.com/watch?v=XkpsruJC5Mk
+* A well organized ppt to summarize the above: Support Vector Machines & Kernels by Prof. Bryan Pardo:
+http://www.cs.northwestern.edu/~pardo/courses/eecs349/lectures/eecs349_support_vector_machines.pdf
 * MLPR: SVM by Prof. Coryn Bailer-Jones: http://www.mpia.de/homes/calj/ss2007_mlpr/course/support_vector_machines.odp.pdf
 * A bit complicated but if you have seen the above, you will understand this:
 A Tutorial on SVM for Pattern Recognition by Christopher J.C Burges: www.cmap.polytechnique.fr/~mallat/papiers/svmtutorial.pdf
 
 * Advanced: v-SVM:
-A Tutorial on v-SVM by Chen et. al: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.407.9879&rep=rep1&type=pdf
+1. A Tutorial on v-SVM by Chen et. al: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.407.9879&rep=rep1&type=pdf
+2. A Geometric Interpretation of v-SVM Classifiers by Crisp & Burges:
+https://papers.nips.cc/paper/1687-a-geometric-interpretation-of-v-svm-classifiers.pdf
+
 
 ### Kernels
 * Prof. Alexander Ihler: https://www.youtube.com/watch?v=OmTu0fqUsQk
@@ -59,12 +65,27 @@ https://people.eecs.berkeley.edu/~bartlett/courses/281b-sp08/8.pdf
 *  Positive Definite Kernels, RKHS, Representer Theorem: NPTEL - Prof. P.S Sastry
 https://www.youtube.com/watch?v=_dyUl_luJl4
 
+### Gaussian Processes
+* From Scratch by Prof. Nando de Freitas
+1. https://www.youtube.com/watch?v=4vGiHC35j9s
+2. https://www.youtube.com/watch?v=MfHKW5z-OOA
+
+### Mixture of Gaussians
+* Gaussian Basics to Expectation Maximization Algorithm by Prof. Victor Lavrenko:
+https://www.youtube.com/watch?v=3JYcCbO5s6M&list=PLBv09BD7ez_7beI0_fuE96lSbsr_8K8YD
+* In case you understand the above, this might help mathematically cement your understanding:
+MathematicalMonk Videos 16.3 to 16.9: https://www.youtube.com/watch?v=AnbiNaVp3eQ
+
 ### Basic Feedforward Neural Networks
 * Verbal Explanation: http://www.explainthatstuff.com/introduction-to-neural-networks.html
+* Inspiration: A visual proof that neural nets can compute any function by Michael Nielsen:
+http://neuralnetworksanddeeplearning.com/chap4.html
+* But what *is* a neural network by 3Blue1Brown: https://www.youtube.com/watch?v=aircAruvnKk 
 * Explanation with a bit of math: https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/
 
 #### Backpropagation
-* Intuition: https://www.youtube.com/watch?v=Ilg3gGewQ5U
+* What is backprop and what is it actually doing? by 3Blue1Brown: https://www.youtube.com/watch?v=Ilg3gGewQ5U
+* Backpropagation Calculus by 3Blue1Brown: https://www.youtube.com/watch?v=tIeHLnjs5U8
 * Intuition converting to maths: https://www.youtube.com/watch?v=An5z8lR8asY
 * Backprop maths: https://www.youtube.com/watch?v=gl3lfL-g5mA
 * More Backprop maths: https://www.youtube.com/watch?v=aVId8KMsdUU
