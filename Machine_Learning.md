@@ -10,12 +10,13 @@ These resources are not mine and I do not claim that I have written them. All th
 
 ### Linear, Lasso and Ridge Regression
 * Linear vs Lasso vs Ridge: https://discuss.analyticsvidhya.com/t/comparison-between-ridge-linear-and-lasso-regression/8213
-* Machine Learning Thoughts: When does sparsity occur: ml.typepad.com/machine_learning_thoughts/2005/11/when_does_spars.html
+* Machine Learning Thoughts: When does sparsity occur: www.ml.typepad.com/machine_learning_thoughts/2005/11/when_does_spars.html
 * Excellent explanation of L1 vs L2 Regularization by Prof. Alexander Ihler:  https://www.youtube.com/watch?v=sO4ZirJh9ds&list=PLkWzaBlA7utJMRi89i9FAKMopL0h0LBMk&index=16
 * Visualizing Norms as a unit circle: https://www.youtube.com/watch?v=SXEYIGqXSxk
 * Proximal Operator as the Shrinkage Operator in Soft Thresholding Algorithms: http://www.onmyphd.com/?p=proximal.operator
 * Derivation of the soft thresholding operator: https://math.stackexchange.com/questions/471339/derivation-of-soft-thresholding-operator
-* Diffentiable criteria: When can I say a function is differentiable? Useful for the understanding the soft thresholding operator -  https://www.mathsisfun.com/calculus/differentiable.html
+* Diffentiable criteria: When can I say a function is differentiable? Useful for the understanding the soft thresholding operator:
+https://www.mathsisfun.com/calculus/differentiable.html
 
 ### Logistic Regression
 * Bernoulli Distribution: https://en.wikipedia.org/wiki/Bernoulli_distribution
