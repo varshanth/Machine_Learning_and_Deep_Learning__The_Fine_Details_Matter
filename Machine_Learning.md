@@ -27,7 +27,7 @@
 * Just words: http://www.explainthatstuff.com/introduction-to-neural-networks.html
 * Words with a bit of math: https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/
 #### Backpropagation
-** Intuition: https://www.youtube.com/watch?v=Ilg3gGewQ5U
-** Intuition converting to maths: https://www.youtube.com/watch?v=An5z8lR8asY
-** Backprop maths: https://www.youtube.com/watch?v=gl3lfL-g5mA
-** More Backprop maths: https://www.youtube.com/watch?v=aVId8KMsdUU
+* Intuition: https://www.youtube.com/watch?v=Ilg3gGewQ5U
+* Intuition converting to maths: https://www.youtube.com/watch?v=An5z8lR8asY
+* Backprop maths: https://www.youtube.com/watch?v=gl3lfL-g5mA
+* More Backprop maths: https://www.youtube.com/watch?v=aVId8KMsdUU
