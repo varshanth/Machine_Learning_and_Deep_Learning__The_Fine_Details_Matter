@@ -23,10 +23,10 @@
 * Likelihood Function for Logistic Regression: http://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch12.pdf
 * Simple Derivation of Logistic Regression: http://www.win-vector.com/blog/2011/09/the-simpler-derivation-of-logistic-regression/
 
-### Basic Neural Networks
+### Basic Feedforward Neural Networks
 * Just words: http://www.explainthatstuff.com/introduction-to-neural-networks.html
 * Words with a bit of math: https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/
-* Backprop:
+#### Backpropagation
 ** Intuition: https://www.youtube.com/watch?v=Ilg3gGewQ5U
 ** Intuition converting to maths: https://www.youtube.com/watch?v=An5z8lR8asY
 ** Backprop maths: https://www.youtube.com/watch?v=gl3lfL-g5mA
