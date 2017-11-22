@@ -9,12 +9,17 @@ These resources are not mine and I do not claim that I have written them. All th
 * 8803 Machine Learning Theory. Maria-Florina Balcan: The Winnow Algorithm - www.cs.cmu.edu/~ninamf/ML11/lect0906.pdf
 
 ### Linear, Lasso and Ridge Regression
-* Linear vs Lasso vs Ridge: https://discuss.analyticsvidhya.com/t/comparison-between-ridge-linear-and-lasso-regression/8213
-* Machine Learning Thoughts: When does sparsity occur: www.ml.typepad.com/machine_learning_thoughts/2005/11/when_does_spars.html
-* Excellent explanation of L1 vs L2 Regularization by Prof. Alexander Ihler:  https://www.youtube.com/watch?v=sO4ZirJh9ds&list=PLkWzaBlA7utJMRi89i9FAKMopL0h0LBMk&index=16
+* Linear vs Lasso vs Ridge:
+https://discuss.analyticsvidhya.com/t/comparison-between-ridge-linear-and-lasso-regression/8213
+* Machine Learning Thoughts: When does sparsity occur:
+www.ml.typepad.com/machine_learning_thoughts/2005/11/when_does_spars.html
+* Excellent explanation of L1 vs L2 Regularization by Prof. Alexander Ihler:
+https://www.youtube.com/watch?v=sO4ZirJh9ds&list=PLkWzaBlA7utJMRi89i9FAKMopL0h0LBMk&index=16
 * Visualizing Norms as a unit circle: https://www.youtube.com/watch?v=SXEYIGqXSxk
-* Proximal Operator as the Shrinkage Operator in Soft Thresholding Algorithms: http://www.onmyphd.com/?p=proximal.operator
-* Derivation of the soft thresholding operator: https://math.stackexchange.com/questions/471339/derivation-of-soft-thresholding-operator
+* Proximal Operator as the Shrinkage Operator in Soft Thresholding Algorithms:
+http://www.onmyphd.com/?p=proximal.operator
+* Derivation of the soft thresholding operator:
+https://math.stackexchange.com/questions/471339/derivation-of-soft-thresholding-operator
 * Diffentiable criteria: When can I say a function is differentiable? Useful for the understanding the soft thresholding operator:
 https://www.mathsisfun.com/calculus/differentiable.html
 
@@ -39,15 +44,19 @@ Warning: These links might contain kernel concepts which are covered in the next
 * Prof. Patrick Winston: https://www.youtube.com/watch?v=_PwhiWxHK8o 
 
 * MLPR: SVM by Prof. Coryn Bailer-Jones: http://www.mpia.de/homes/calj/ss2007_mlpr/course/support_vector_machines.odp.pdf
-* A bit complicated but if you have seen the above, you will understand this: A Tutorial on SVM for Pattern Recognition by Christopher J.C Burges: www.cmap.polytechnique.fr/~mallat/papiers/svmtutorial.pdf
+* A bit complicated but if you have seen the above, you will understand this:
+A Tutorial on SVM for Pattern Recognition by Christopher J.C Burges: www.cmap.polytechnique.fr/~mallat/papiers/svmtutorial.pdf
 
-* Advanced: v-SVM: A Tutorial on v-SVM by Chen et. al: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.407.9879&rep=rep1&type=pdf
+* Advanced: v-SVM:
+A Tutorial on v-SVM by Chen et. al: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.407.9879&rep=rep1&type=pdf
 
 ### Kernels
 * Prof. Alexander Ihler: https://www.youtube.com/watch?v=OmTu0fqUsQk
 * The Kernel Trick - Udacity : https://www.youtube.com/watch?v=N_r9oJxSuRs
-* Representer Theorem, Kernel Examples and Proofs by Prof. Peter Bartlett: https://people.eecs.berkeley.edu/~bartlett/courses/281b-sp08/8.pdf
-*  Positive Definite Kernels, RKHS, Representer Theorem: NPTEL - Prof. P.S Sastry : https://www.youtube.com/watch?v=_dyUl_luJl4
+* Representer Theorem, Kernel Examples and Proofs by Prof. Peter Bartlett:
+https://people.eecs.berkeley.edu/~bartlett/courses/281b-sp08/8.pdf
+*  Positive Definite Kernels, RKHS, Representer Theorem: NPTEL - Prof. P.S Sastry
+https://www.youtube.com/watch?v=_dyUl_luJl4
 
 ### Basic Feedforward Neural Networks
 * Just words: http://www.explainthatstuff.com/introduction-to-neural-networks.html
