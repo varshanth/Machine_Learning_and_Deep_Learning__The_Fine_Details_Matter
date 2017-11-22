@@ -1,5 +1,5 @@
 ## Machine Learning
-These resources are not mine and I do not claim that I have written/composed/presented them. All the resources listed here can be found publicly.
+These resources are not mine and I do not claim that I have written/composed/presented them. They are an aggregation of publicly available resources. If any of the authors do not want their resources cited here, please report it as an issue and I will remove it from the repo at the earliest.
 
 ### Winnow & Perceptron:
 * J. Kivinen, M.K. Warmuth, P. Auer, The perceptron algorithm versus winnow: linear versus logarithmic mistake bounds when few input variables are relevant, In Artificial Intelligence, Volume 97, Issues 1–2, 1997, Pages 325-343, ISSN 0004-3702, https://doi.org/10.1016/S0004-3702(97)00039-8. (http://www.sciencedirect.com/science/article/pii/S0004370297000398)
