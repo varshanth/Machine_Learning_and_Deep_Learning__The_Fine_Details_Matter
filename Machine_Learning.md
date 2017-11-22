@@ -34,8 +34,8 @@ https://www.mathsisfun.com/calculus/differentiable.html
 * The only resource you will ever need to understand: Prof. Victor Lavrenko's:
 https://www.youtube.com/playlist?list=PLBv09BD7ez_68OwSB97WXyIOvvI5nqi-3
 * Mahalanobis Distance:
-1. https://www.youtube.com/watch?v=3IdvoI8O9hU
-2. https://www.youtube.com/watch?v=spNpfmWZBmg
+1. Explanation by similarity: Gopal Malakar: https://www.youtube.com/watch?v=3IdvoI8O9hU
+2. Explanation through example: Matthew E. Clapham: https://www.youtube.com/watch?v=spNpfmWZBmg
 
 ### Hard & Soft Margin Support Vector Machines & KKT Conditions
 Warning: These links might contain kernel concepts which are covered in the next section. So you might want to ignore kernels until you read that.
@@ -60,8 +60,8 @@ https://people.eecs.berkeley.edu/~bartlett/courses/281b-sp08/8.pdf
 https://www.youtube.com/watch?v=_dyUl_luJl4
 
 ### Basic Feedforward Neural Networks
-* Just words: http://www.explainthatstuff.com/introduction-to-neural-networks.html
-* Words with a bit of math: https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/
+* Verbal Explanation: http://www.explainthatstuff.com/introduction-to-neural-networks.html
+* Explanation with a bit of math: https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/
 
 #### Backpropagation
 * Intuition: https://www.youtube.com/watch?v=Ilg3gGewQ5U
