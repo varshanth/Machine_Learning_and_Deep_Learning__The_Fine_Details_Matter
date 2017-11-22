@@ -23,9 +23,18 @@
 * Likelihood Function for Logistic Regression: http://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch12.pdf
 * Simple Derivation of Logistic Regression: http://www.win-vector.com/blog/2011/09/the-simpler-derivation-of-logistic-regression/
 
+## Nearest Neighbors
+* The only resource you will ever need to understand: Victor Lavrenko's: https://www.youtube.com/playlist?list=PLBv09BD7ez_68OwSB97WXyIOvvI5nqi-3
+* Mahalanobis Distance: i) https://www.youtube.com/watch?v=3IdvoI8O9hU ii) https://www.youtube.com/watch?v=spNpfmWZBmg
+
 ### Basic Feedforward Neural Networks
 * Just words: http://www.explainthatstuff.com/introduction-to-neural-networks.html
 * Words with a bit of math: https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/
+
+### Hard Margin & Soft Margin Support Vector Machines
+* Prof. Alexander Ihler i) Part 1: https://www.youtube.com/watch?v=IOetFPgsMUc ii) Part 2: https://www.youtube.com/watch?v=1aQLEzeGJC8
+* Prof. Patrick Winston: https://www.youtube.com/watch?v=_PwhiWxHK8o
+
 #### Backpropagation
 * Intuition: https://www.youtube.com/watch?v=Ilg3gGewQ5U
 * Intuition converting to maths: https://www.youtube.com/watch?v=An5z8lR8asY
