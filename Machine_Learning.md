@@ -76,6 +76,10 @@ https://www.youtube.com/watch?v=3JYcCbO5s6M&list=PLBv09BD7ez_7beI0_fuE96lSbsr_8K
 * In case you understand the above, this might help mathematically cement your understanding:
 MathematicalMonk Videos 16.3 to 16.9: https://www.youtube.com/watch?v=AnbiNaVp3eQ
 
+* Application of EM Algorithm: Probabilistic Latent Semantic Analysis by Prof. ChengXiang Zhai
+1. https://www.youtube.com/watch?v=vtadpVDr1hM
+2. https://www.youtube.com/watch?v=hrSjJo1Z-UE
+
 ### Basic Feedforward Neural Networks
 * Verbal Explanation: http://www.explainthatstuff.com/introduction-to-neural-networks.html
 * Inspiration: A visual proof that neural nets can compute any function by Michael Nielsen:
@@ -89,3 +93,10 @@ http://neuralnetworksanddeeplearning.com/chap4.html
 * Intuition converting to maths: https://www.youtube.com/watch?v=An5z8lR8asY
 * Backprop maths: https://www.youtube.com/watch?v=gl3lfL-g5mA
 * More Backprop maths: https://www.youtube.com/watch?v=aVId8KMsdUU
+
+### Miscellaneous
+* What is the difference between a generative and discriminative algorithm?
+https://stackoverflow.com/questions/879432/what-is-the-difference-between-a-generative-and-discriminative-algorithm
+* What is the difference between a hyperparameter and a parameter?
+https://machinelearningmastery.com/difference-between-a-parameter-and-a-hyperparameter/
+
