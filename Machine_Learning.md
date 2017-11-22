@@ -1,14 +1,14 @@
-## Machine Learning
+# Machine Learning
 These resources are not mine and I do not claim that I have written/composed/presented them. They are an aggregation of publicly available resources. If any of the authors do not want their resources cited here, please report it as an issue and I will remove it from the repo at the earliest.
 
-### Winnow & Perceptron:
+## Winnow & Perceptron:
 * J. Kivinen, M.K. Warmuth, P. Auer, The perceptron algorithm versus winnow: linear versus logarithmic mistake bounds when few input variables are relevant, In Artificial Intelligence, Volume 97, Issues 1–2, 1997, Pages 325-343, ISSN 0004-3702, https://doi.org/10.1016/S0004-3702(97)00039-8. (http://www.sciencedirect.com/science/article/pii/S0004370297000398)
 
 * (Other topics also covered here) SIMS 290-2: Applied Natural Language Processing: Marti Hearst & Barbara Rosario: courses.ischool.berkeley.edu/i256/f06/lectures/lecture17.ppt
 
 * 8803 Machine Learning Theory. Maria-Florina Balcan: The Winnow Algorithm - www.cs.cmu.edu/~ninamf/ML11/lect0906.pdf
 
-### Linear, Lasso and Ridge Regression
+## Linear, Lasso and Ridge Regression
 * Linear vs Lasso vs Ridge:
 https://discuss.analyticsvidhya.com/t/comparison-between-ridge-linear-and-lasso-regression/8213
 * Machine Learning Thoughts: When does sparsity occur:
@@ -23,21 +23,21 @@ https://math.stackexchange.com/questions/471339/derivation-of-soft-thresholding-
 * Differentiable criteria: When can I say a function is differentiable? Useful for the understanding the soft thresholding operator:
 https://www.mathsisfun.com/calculus/differentiable.html
 
-### Logistic Regression
+## Logistic Regression
 * Bernoulli Distribution: https://en.wikipedia.org/wiki/Bernoulli_distribution
 * Logits: https://stats.stackexchange.com/questions/52825/what-does-the-logit-value-actually-mean
 * Logits & Log-odds: https://stats.idre.ucla.edu/stata/faq/how-do-i-interpret-odds-ratios-in-logistic-regression/
 * Likelihood Function for Logistic Regression: Prof. Cosma Shalizi's 2012 Lecture: http://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch12.pdf
 * Simple Derivation of Logistic Regression: http://www.win-vector.com/blog/2011/09/the-simpler-derivation-of-logistic-regression/
 
-### Nearest Neighbors
+## Nearest Neighbors
 * The only resource you will ever need to understand: Prof. Victor Lavrenko's:
 https://www.youtube.com/playlist?list=PLBv09BD7ez_68OwSB97WXyIOvvI5nqi-3
 * Mahalanobis Distance:
 1. Explanation by similarity: Gopal Malakar: https://www.youtube.com/watch?v=3IdvoI8O9hU
 2. Explanation through example: Matthew E. Clapham: https://www.youtube.com/watch?v=spNpfmWZBmg
 
-### Hard & Soft Margin Support Vector Machines & KKT Conditions
+## Hard & Soft Margin Support Vector Machines & KKT Conditions
 Warning: These links might contain kernel concepts which are covered in the next section. So you might want to ignore kernels until you read that.
 * Prof. Alexander Ihler
 1. Part 1: https://www.youtube.com/watch?v=IOetFPgsMUc
@@ -57,7 +57,7 @@ A Tutorial on SVM for Pattern Recognition by Christopher J.C Burges: www.cmap.po
 https://papers.nips.cc/paper/1687-a-geometric-interpretation-of-v-svm-classifiers.pdf
 
 
-### Kernels
+## Kernels
 * Prof. Alexander Ihler: https://www.youtube.com/watch?v=OmTu0fqUsQk
 * The Kernel Trick - Udacity : https://www.youtube.com/watch?v=N_r9oJxSuRs
 * Representer Theorem, Kernel Examples and Proofs by Prof. Peter Bartlett:
@@ -65,12 +65,12 @@ https://people.eecs.berkeley.edu/~bartlett/courses/281b-sp08/8.pdf
 *  Positive Definite Kernels, RKHS, Representer Theorem: NPTEL - Prof. P.S Sastry
 https://www.youtube.com/watch?v=_dyUl_luJl4
 
-### Gaussian Processes
+## Gaussian Processes
 * From Scratch by Prof. Nando de Freitas
 1. https://www.youtube.com/watch?v=4vGiHC35j9s
 2. https://www.youtube.com/watch?v=MfHKW5z-OOA
 
-### Mixture of Gaussians
+## Mixture of Gaussians
 * Gaussian Basics to Expectation Maximization Algorithm by Prof. Victor Lavrenko:
 https://www.youtube.com/watch?v=3JYcCbO5s6M&list=PLBv09BD7ez_7beI0_fuE96lSbsr_8K8YD
 * In case you understand the above, this might help mathematically cement your understanding:
@@ -80,23 +80,22 @@ MathematicalMonk Videos 16.3 to 16.9: https://www.youtube.com/watch?v=AnbiNaVp3e
 1. https://www.youtube.com/watch?v=vtadpVDr1hM
 2. https://www.youtube.com/watch?v=hrSjJo1Z-UE
 
-### Basic Feedforward Neural Networks
+## Basic Feedforward Neural Networks
 * Verbal Explanation: http://www.explainthatstuff.com/introduction-to-neural-networks.html
 * Inspiration: A visual proof that neural nets can compute any function by Michael Nielsen:
 http://neuralnetworksanddeeplearning.com/chap4.html
 * But what *is* a neural network by 3Blue1Brown: https://www.youtube.com/watch?v=aircAruvnKk 
 * Explanation with a bit of math: https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/
 
-#### Backpropagation
+### Backpropagation
 * What is backprop and what is it actually doing? by 3Blue1Brown: https://www.youtube.com/watch?v=Ilg3gGewQ5U
 * Backpropagation Calculus by 3Blue1Brown: https://www.youtube.com/watch?v=tIeHLnjs5U8
 * Intuition converting to maths: https://www.youtube.com/watch?v=An5z8lR8asY
 * Backprop maths: https://www.youtube.com/watch?v=gl3lfL-g5mA
 * More Backprop maths: https://www.youtube.com/watch?v=aVId8KMsdUU
 
-### Miscellaneous
+## Miscellaneous
 * What is the difference between a generative and discriminative algorithm?
 https://stackoverflow.com/questions/879432/what-is-the-difference-between-a-generative-and-discriminative-algorithm
 * What is the difference between a hyperparameter and a parameter?
 https://machinelearningmastery.com/difference-between-a-parameter-and-a-hyperparameter/
-
