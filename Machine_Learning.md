@@ -31,10 +31,6 @@ https://www.mathsisfun.com/calculus/differentiable.html
 1. https://www.youtube.com/watch?v=3IdvoI8O9hU
 2. https://www.youtube.com/watch?v=spNpfmWZBmg
 
-### Basic Feedforward Neural Networks
-* Just words: http://www.explainthatstuff.com/introduction-to-neural-networks.html
-* Words with a bit of math: https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/
-
 ### Hard & Soft Margin Support Vector Machines & KKT Conditions
 * Prof. Alexander Ihler
 1. Part 1: https://www.youtube.com/watch?v=IOetFPgsMUc
@@ -43,6 +39,10 @@ https://www.mathsisfun.com/calculus/differentiable.html
 
 * MLPR: SVM by Prof. Coryn Bailer-Jones: http://www.mpia.de/homes/calj/ss2007_mlpr/course/support_vector_machines.odp.pdf
 * A bit complicated but if you have seen the above, you will understand this: A Tutorial on SVM for Pattern Recognition by Christopher J.C Burges: www.cmap.polytechnique.fr/~mallat/papiers/svmtutorial.pdf
+
+### Basic Feedforward Neural Networks
+* Just words: http://www.explainthatstuff.com/introduction-to-neural-networks.html
+* Words with a bit of math: https://ujjwalkarn.me/2016/08/09/quick-intro-neural-networks/
 
 #### Backpropagation
 * Intuition: https://www.youtube.com/watch?v=Ilg3gGewQ5U
