@@ -9,7 +9,7 @@ https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w
 
 ## Convolutional Neural Networks (CNN)
 ### Let's Diverge for a second: What is convolution? (and why should CNN be actually called Cross Correlation-al Neural Network)
-This is optional, I spent some time on this understanding what is motivation behind a "convolutional" approach and these were the resources I referred. This isn't mathemetically important to CNN, but intuitively gives a good idea as to what the filters in the CNN are trying to achieve. 
+This is optional, I spent some time on understanding the motivation behind a "convolutional" approach and these were the resources I referred. This isn't mathemetically important to CNN, but intuitively gives a good idea as to what the filters in the CNN are trying to achieve. 
 * Obviously: https://en.wikipedia.org/wiki/Convolution
 * Notice the animation: Remember the convolution operation is the integration, so it is the area UNDER the curve.  
 http://mathworld.wolfram.com/Convolution.html
