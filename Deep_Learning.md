@@ -1,11 +1,29 @@
 # Deep Learning
 These resources are not mine and I do not claim that I have written/composed/presented them. They are an aggregation of publicly available resources. If any of the authors do not want their resources cited here, please report it as an issue and I will remove it from the repo at the earliest.
 
-## '101' Videos of Deep Learning:
+## '101' Videos of Deep Learning
 * CS231n Spring 2017 Stanford University  
 https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk
 * Deep Learning.ai - Andrew NG  
 https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w
+
+## Useful Blogs
+This blog is amazing. Many resources listed below are from this:  
+https://www.analyticsvidhya.com/blog/category/deep-learning/
+
+## Activation Functions
+* Why do we need activation functions? Different Types of Activation Functions
+* https://www.youtube.com/watch?v=-7scQpJT7uo
+* CS231n Lecture 6
+* Activation functions and when to use them:  
+https://www.analyticsvidhya.com/blog/2017/10/fundamentals-deep-learning-activation-functions-when-to-use-them/
+* ReLU isn't differentiable? Do we have to care?  
+https://stackoverflow.com/questions/30236856/how-does-the-back-propagation-algorithm-deal-with-non-differentiable-activation
+
+## SGD Algorithms
+* CS231n Lecture 7 -  Momentum, Nesterov momentum, AdaGrad, RMSProp, Adam
+* https://www.analyticsvidhya.com/blog/2017/03/introduction-to-gradient-descent-algorithm-along-its-variants/
+* Overview of SGD Algorithms by Sebastian Ruder: https://arxiv.org/pdf/1609.04747.pdf
 
 ## Convolutional Neural Networks (CNN)
 ### Let's diverge for a second: What is convolution? (and why should CNN be actually called Cross Correlation-al Neural Network)
@@ -20,6 +38,7 @@ http://mathworld.wolfram.com/Convolution.html
 * CS231n Lec 5 - Internals of CNN, receptive field, calculating new dimensions after convolution etc.
 * Calculating the effective field of a CNN:  
 http://shawnleezx.github.io/blog/2017/02/11/calculating-receptive-field-of-cnn/
+* How CNN Work by Brandon Rohrer: https://www.youtube.com/watch?v=FmpDIaiMIeA
 * CS231n Lec 9 - CNN Architectures - VGGNet, GoogLeNet, ResNet, etc.
 
 ## Recurrent Neural Networks (RNN), Long Short Term Memory (LSTM) and Gated Recurrent Units (GRU)
@@ -28,7 +47,7 @@ http://shawnleezx.github.io/blog/2017/02/11/calculating-receptive-field-of-cnn/
 https://stats.stackexchange.com/questions/241985/understanding-lstm-units-vs-cells  
 In short, number of hidden units = size of the h vector, RNN cell in literature = A single RNN with a single hidden unit  
 * How RNN & LSTMs work by Brandon Rohrer: https://www.youtube.com/watch?v=WCUNPb-5EYI
-* Understanding LSTM Colah's blog - Simple explanation with motives:  
+* Understanding LSTM - Colah's blog - Simple explanations with motivations:  
 http://colah.github.io/posts/2015-08-Understanding-LSTMs/
 * RNN & LSTMs from intuition to backpropagation with examples by Rohan and Lenny:  
 https://ayearofai.com/rohan-lenny-3-recurrent-neural-networks-10300100899b
@@ -44,5 +63,15 @@ https://www.quora.com/How-do-I-implement-mini-batch-algorithm-in-normal-RNN-and-
 * How are inputs fed to LSTM-RNN in mini batch method?  
 https://www.quora.com/How-are-inputs-fed-into-the-LSTM-RNN-network-in-mini-batch-method
 
+## Word Embeddings:
+* https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/
+## Generative Adversarial Networks (GAN)
+* Intro to GAN: Motivation to Algo:  
+https://www.analyticsvidhya.com/blog/2017/06/introductory-generative-adversarial-networks-gans/
 
 
+## Miscellaneous
+* 25 Must Know Concepts for Beginners:  
+https://www.analyticsvidhya.com/blog/2017/05/25-must-know-terms-concepts-for-beginners-in-deep-learning/
+* Why do we need GPUs?  
+https://www.analyticsvidhya.com/blog/2017/05/gpus-necessary-for-deep-learning/
