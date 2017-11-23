@@ -20,10 +20,11 @@ https://www.analyticsvidhya.com/blog/2017/10/fundamentals-deep-learning-activati
 * ReLU isn't differentiable? Do we have to care?  
 https://stackoverflow.com/questions/30236856/how-does-the-back-propagation-algorithm-deal-with-non-differentiable-activation
 
-## SGD Algorithms
+## Optimization Algorithms
 * CS231n Lecture 7 -  Momentum, Nesterov momentum, AdaGrad, RMSProp, Adam
 * https://www.analyticsvidhya.com/blog/2017/03/introduction-to-gradient-descent-algorithm-along-its-variants/
 * Overview of SGD Algorithms by Sebastian Ruder: https://arxiv.org/pdf/1609.04747.pdf
+* Visualizing Optimizing Algorithms: https://imgur.com/a/Hqolp
 
 ## Convolutional Neural Networks (CNN)
 ### Let's diverge for a second: What is convolution? (and why should CNN be actually called Cross Correlation-al Neural Network)
