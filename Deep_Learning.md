@@ -1,7 +1,7 @@
 # Deep Learning
 These resources are not mine and I do not claim that I have written/composed/presented them. They are an aggregation of publicly available resources. If any of the authors do not want their resources cited here, please report it as an issue and I will remove it from the repo at the earliest.
 
-## Bible Videos of Deep Learning:
+## '101' Videos of Deep Learning:
 * CS231n Spring 2017 Stanford University  
 https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk
 * Deep Learning.ai - Andrew NG  
