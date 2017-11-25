@@ -66,6 +66,7 @@ https://papers.nips.cc/paper/1687-a-geometric-interpretation-of-v-svm-classifier
 
 ## Kernels
 * Prof. Alexander Ihler: https://www.youtube.com/watch?v=OmTu0fqUsQk
+* Visualizing a polynomial kernel by Udi Aharoni: https://www.youtube.com/watch?v=3liCbRZPrZA
 * The Kernel Trick - Udacity : https://www.youtube.com/watch?v=N_r9oJxSuRs
 * Representer Theorem, Kernel Examples and Proofs by Prof. Peter Bartlett:  
 https://people.eecs.berkeley.edu/~bartlett/courses/281b-sp08/8.pdf
