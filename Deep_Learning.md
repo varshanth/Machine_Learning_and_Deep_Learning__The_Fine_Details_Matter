@@ -11,6 +11,15 @@ https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w
 This blog is amazing. Many resources listed below are from this:  
 https://www.analyticsvidhya.com/blog/category/deep-learning/
 
+## Data Preprocessing
+* Difference between normalization and standardization and when to use them:  
+https://machinelearningmastery.com/normalize-standardize-machine-learning-data-weka/
+* ZCA Whitening: Amazing explanation (with simple maths):  
+https://www.youtube.com/watch?v=eUiwhV1QcQ4
+* Difference between PCA whitening and ZCA whitening:  
+https://www.youtube.com/watch?v=eUiwhV1QcQ4
+
+
 ## Activation Functions
 * Why do we need activation functions? Different Types of Activation Functions
 * https://www.youtube.com/watch?v=-7scQpJT7uo
