@@ -8,8 +8,9 @@ https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk
 https://www.youtube.com/channel/UCcIXc5mJsHVYTZR1maL5l9w
 
 ## Useful Blogs
-This blog is amazing. Many resources listed below are from this:  
+* This blog is amazing. Many resources listed below are from this:  
 https://www.analyticsvidhya.com/blog/category/deep-learning/
+* https://adeshpande3.github.io/adeshpande3.github.io/The-9-Deep-Learning-Papers-You-Need-To-Know-About.html
 
 ## Data Preprocessing
 * Difference between normalization and standardization and when to use them:  
