@@ -33,6 +33,8 @@ https://stackoverflow.com/questions/30236856/how-does-the-back-propagation-algor
 * CS231n Lecture 7 -  Momentum, Nesterov momentum, AdaGrad, RMSProp, Adam
 * https://www.analyticsvidhya.com/blog/2017/03/introduction-to-gradient-descent-algorithm-along-its-variants/
 * Overview of SGD Algorithms by Sebastian Ruder: https://arxiv.org/pdf/1609.04747.pdf
+* Excellent reasoning behind design of optimization techniques with code:  
+https://wiseodd.github.io/techblog/2016/06/22/nn-optimization/
 * Visualizing Optimizing Algorithms: https://imgur.com/a/Hqolp
 
 ## Convolutional Neural Networks (CNN)
