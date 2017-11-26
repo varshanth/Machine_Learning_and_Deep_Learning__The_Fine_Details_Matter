@@ -50,6 +50,8 @@ Warning: These links might contain kernel concepts which are covered in the next
 * Prof. Patrick Winston: https://www.youtube.com/watch?v=_PwhiWxHK8o
 
 * Dual SVM & Kernels by Bert Huang: https://www.youtube.com/watch?v=XkpsruJC5Mk
+* De Facto PDF for SVM Lecture by Prof. Andrew Zisserman; Simple, maths explained well with examples:  
+http://www.robots.ox.ac.uk/~az/lectures/ml/lect2.pdf
 * A well organized ppt to summarize the above: Support Vector Machines & Kernels by Prof. Bryan Pardo:  
 http://www.cs.northwestern.edu/~pardo/courses/eecs349/lectures/eecs349_support_vector_machines.pdf
 * MLPR: SVM by Prof. Coryn Bailer-Jones:  
