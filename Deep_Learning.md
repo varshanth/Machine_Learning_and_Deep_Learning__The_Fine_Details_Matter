@@ -52,7 +52,19 @@ http://mathworld.wolfram.com/Convolution.html
 * Calculating the effective field of a CNN:  
 http://shawnleezx.github.io/blog/2017/02/11/calculating-receptive-field-of-cnn/
 * How CNN Work by Brandon Rohrer: https://www.youtube.com/watch?v=FmpDIaiMIeA
+
+### Revolutionary CNN Architectures
 * CS231n Lec 9 - CNN Architectures - VGGNet, GoogLeNet, ResNet, etc.
+* A brief about ResNets and its variants:  
+https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035
+* ResNet Paper by He et al.  
+https://arxiv.org/pdf/1512.03385.pdf  
+CVPR 2016 ResNet Presentation: https://www.youtube.com/watch?v=C6tLw-rPQ2o
+* DenseNet Paper by Huang et al.  
+https://arxiv.org/pdf/1608.06993.pdf  
+CVPR 2017 DenseNet Presentation: https://www.youtube.com/watch?v=xVhD2OBqoyg
+* Dual Path Networks by Chen et al.  
+https://arxiv.org/pdf/1707.01629.pdf
 
 ## Recurrent Neural Networks (RNN), Long Short Term Memory (LSTM) and Gated Recurrent Units (GRU)
 * CS231n Lec 10 - RNN architecture, examples, drawbacks, requirement for LSTM, LSTM architecture etc.
