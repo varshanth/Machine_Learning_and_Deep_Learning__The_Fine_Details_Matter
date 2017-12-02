@@ -68,6 +68,15 @@ CVPR 2017 DenseNet Presentation: https://www.youtube.com/watch?v=xVhD2OBqoyg
 * Dual Path Networks by Chen et al.  
 https://arxiv.org/pdf/1707.01629.pdf
 
+#### Global Average Pooling
+
+* Why is Global Average Pooling replacing FC Layers nowadays?  
+https://www.quora.com/What-is-global-average-pooling  
+* Very brief simple explanation of what GAP is:  
+https://stats.stackexchange.com/questions/257321/what-is-global-max-pooling-layer-and-what-is-its-advantage-over-maxpooling-layer  
+* Origination & Concept Proposal by Lin et al.  
+https://arxiv.org/pdf/1312.4400.pdf
+
 ## Recurrent Neural Networks (RNN), Long Short Term Memory (LSTM) and Gated Recurrent Units (GRU)
 * CS231n Lec 10 - RNN architecture, examples, drawbacks, requirement for LSTM, LSTM architecture etc.
 * **Very important** to understand the difference between number of hidden units and RNN Cells because the definition in literature is different from that of implementation:   
