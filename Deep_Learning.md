@@ -62,11 +62,11 @@ https://arxiv.org/pdf/1512.03385.pdf
 CVPR 2016 ResNet Presentation: https://www.youtube.com/watch?v=C6tLw-rPQ2o
 * DenseNet Paper by Huang et al.  
 https://arxiv.org/pdf/1608.06993.pdf  
+DenseNet - (L) Meaning:  
+https://github.com/liuzhuang13/DenseNetCaffe/issues/9  
 CVPR 2017 DenseNet Presentation: https://www.youtube.com/watch?v=xVhD2OBqoyg
 * Dual Path Networks by Chen et al.  
-https://arxiv.org/pdf/1707.01629.pdf  
-DenseNet - (L) Meaning:  
-https://github.com/liuzhuang13/DenseNetCaffe/issues/9
+https://arxiv.org/pdf/1707.01629.pdf
 
 ## Recurrent Neural Networks (RNN), Long Short Term Memory (LSTM) and Gated Recurrent Units (GRU)
 * CS231n Lec 10 - RNN architecture, examples, drawbacks, requirement for LSTM, LSTM architecture etc.
