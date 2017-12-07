@@ -111,3 +111,5 @@ https://www.analyticsvidhya.com/blog/2017/06/introductory-generative-adversarial
 https://www.analyticsvidhya.com/blog/2017/05/25-must-know-terms-concepts-for-beginners-in-deep-learning/
 * Why do we need GPUs?  
 https://www.analyticsvidhya.com/blog/2017/05/gpus-necessary-for-deep-learning/
+* Understanding Internal Covariate Shift and BatchNorm:  
+https://www.quora.com/Why-does-an-internal-covariate-shift-slow-down-the-training-procedure
