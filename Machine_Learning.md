@@ -34,6 +34,8 @@ https://stats.idre.ucla.edu/stata/faq/how-do-i-interpret-odds-ratios-in-logistic
 http://www.stat.cmu.edu/~cshalizi/uADA/12/lectures/ch12.pdf
 * Simple Derivation of Logistic Regression:  
 http://www.win-vector.com/blog/2011/09/the-simpler-derivation-of-logistic-regression/
+* y = {0,1} vs y = {-1,1} Loss function derivation:  
+http://www.robots.ox.ac.uk/~az/lectures/ml/2011/lect4.pdf
 
 ## Nearest Neighbors
 * The only resource you will ever need to understand: Prof. Victor Lavrenko's:  
