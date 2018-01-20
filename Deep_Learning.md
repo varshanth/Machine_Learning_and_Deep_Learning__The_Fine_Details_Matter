@@ -52,6 +52,8 @@ http://mathworld.wolfram.com/Convolution.html
 * Calculating the effective field of a CNN:  
 http://shawnleezx.github.io/blog/2017/02/11/calculating-receptive-field-of-cnn/
 * How CNN Work by Brandon Rohrer: https://www.youtube.com/watch?v=FmpDIaiMIeA
+* What are 1x1 convolutions used for:  
+https://stats.stackexchange.com/questions/194142/what-does-1x1-convolution-mean-in-a-neural-network
 
 ### Revolutionary CNN Architectures
 * CS231n Lec 9 - CNN Architectures - VGGNet, GoogLeNet, ResNet, etc.
