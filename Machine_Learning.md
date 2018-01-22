@@ -61,6 +61,9 @@ http://www.mpia.de/homes/calj/ss2007_mlpr/course/support_vector_machines.odp.pdf
 * A bit complicated but if you have seen the above, you will understand this:  
 A Tutorial on SVM for Pattern Recognition by Christopher J.C Burges: www.cmap.polytechnique.fr/~mallat/papiers/svmtutorial.pdf
 
+* Support Vector Regression: Hard Margin & Soft Margin  
+http://www.saedsayad.com/support_vector_machine_reg.htm  
+
 * Advanced: v-SVM:
 1. A Tutorial on v-SVM by Chen et. al:  
 http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.407.9879&rep=rep1&type=pdf
