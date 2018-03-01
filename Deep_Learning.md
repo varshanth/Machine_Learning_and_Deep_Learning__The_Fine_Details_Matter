@@ -77,7 +77,19 @@ https://www.quora.com/What-is-global-average-pooling
 * Very brief simple explanation of what GAP is:  
 https://stats.stackexchange.com/questions/257321/what-is-global-max-pooling-layer-and-what-is-its-advantage-over-maxpooling-layer  
 * Origination & Concept Proposal by Lin et al.  
-https://arxiv.org/pdf/1312.4400.pdf
+https://arxiv.org/pdf/1312.4400.pdf  
+
+## Computer Vision
+* CS231n Lec 11 - Semantic Segmentation, Classification + Localization, Object Detection  
+
+### Object Detection
+* Succinct Explanations:  
+https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/object_localization_and_detection.html  
+
+* Fast RCNN by Ross Girschick:  
+https://arxiv.org/pdf/1504.08083.pdf  
+Region of Interest (RoI) Pooling:  
+https://blog.deepsense.ai/region-of-interest-pooling-explained/  
 
 ## Recurrent Neural Networks (RNN), Long Short Term Memory (LSTM) and Gated Recurrent Units (GRU)
 * CS231n Lec 10 - RNN architecture, examples, drawbacks, requirement for LSTM, LSTM architecture etc.
