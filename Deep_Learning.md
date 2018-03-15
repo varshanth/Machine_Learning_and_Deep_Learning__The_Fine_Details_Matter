@@ -14,7 +14,9 @@ https://www.analyticsvidhya.com/blog/category/deep-learning/
 
 ## Data Preprocessing
 * Difference between normalization and standardization and when to use them:  
-https://machinelearningmastery.com/normalize-standardize-machine-learning-data-weka/
+https://machinelearningmastery.com/normalize-standardize-machine-learning-data-weka/  
+* Useful thread on image normalization:  
+http://forums.fast.ai/t/images-normalization/4058  
 * ZCA Whitening: Amazing explanation (with simple maths):  
 https://www.youtube.com/watch?v=eUiwhV1QcQ4
 * Difference between PCA whitening and ZCA whitening:  
