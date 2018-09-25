@@ -31,6 +31,10 @@ https://www.youtube.com/watch?v=eUiwhV1QcQ4
 https://www.analyticsvidhya.com/blog/2017/10/fundamentals-deep-learning-activation-functions-when-to-use-them/
 * ReLU isn't differentiable? Do we have to care?  
 https://stackoverflow.com/questions/30236856/how-does-the-back-propagation-algorithm-deal-with-non-differentiable-activation
+  
+## Evaluation Metrics  
+* Metrics borrowed from IR:  
+https://ils.unc.edu/courses/2013\_spring/inls509\_001/lectures/10-EvaluationMetrics.pdf  
 
 ## Optimization Algorithms
 * CS231n Lecture 7 -  Momentum, Nesterov momentum, AdaGrad, RMSProp, Adam
@@ -55,7 +59,10 @@ http://mathworld.wolfram.com/Convolution.html
 http://shawnleezx.github.io/blog/2017/02/11/calculating-receptive-field-of-cnn/
 * How CNN Work by Brandon Rohrer: https://www.youtube.com/watch?v=FmpDIaiMIeA
 * What are 1x1 convolutions used for:  
-https://stats.stackexchange.com/questions/194142/what-does-1x1-convolution-mean-in-a-neural-network
+https://stats.stackexchange.com/questions/194142/what-does-1x1-convolution-mean-in-a-neural-network  
+* Convolution Arithmetic for Deep Learning:  
+https://arxiv.org/pdf/1603.07285.pdf  
+
 
 ### Revolutionary CNN Architectures
 * CS231n Lec 9 - CNN Architectures - VGGNet, GoogLeNet, ResNet, etc.
@@ -81,16 +88,25 @@ https://stats.stackexchange.com/questions/257321/what-is-global-max-pooling-laye
 * Origination & Concept Proposal by Lin et al.  
 https://arxiv.org/pdf/1312.4400.pdf  
 
-## Computer Vision
+## Advanced Computer Vision
 * CS231n Lec 11 - Semantic Segmentation, Classification + Localization, Object Detection  
 
 ### Object Detection
 * Succinct Explanations:  
 https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/object_localization_and_detection.html  
+* IoU Explained:  
+https://www.pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-detection/  
 
-* Fast RCNN by Ross Girschick:  
-https://arxiv.org/pdf/1504.08083.pdf  
-Region of Interest (RoI) Pooling:  
+#### Faster RCNN
+* Faster RCNN (FRCNN) Level 1 Detailed Explanation:  
+https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/  
+* FRCNN Level 2 Detailed Explanation:  
+http://www.telesens.co/2018/03/11/object-detection-and-classification-using-r-cnns/  
+* L1 Loss for BBox Regression:  
+https://mohitjainweb.files.wordpress.com/2018/03/smoothl1loss.pdf  
+* Anchor Box Seeding:  
+https://lars76.github.io/object-detection/k-means-anchor-boxes/  
+* Region of Interest (RoI) Pooling:  
 https://blog.deepsense.ai/region-of-interest-pooling-explained/  
 
 ## Recurrent Neural Networks (RNN), Long Short Term Memory (LSTM) and Gated Recurrent Units (GRU)
@@ -113,13 +129,29 @@ https://machinelearningmastery.com/use-different-batch-sizes-training-predicting
 * Implementing mini batch algo in RNNs:  
 https://www.quora.com/How-do-I-implement-mini-batch-algorithm-in-normal-RNN-and-Bidirectional-LSTM-RNN-for-NLP-task
 * How are inputs fed to LSTM-RNN in mini batch method?  
-https://www.quora.com/How-are-inputs-fed-into-the-LSTM-RNN-network-in-mini-batch-method
+https://www.quora.com/How-are-inputs-fed-into-the-LSTM-RNN-network-in-mini-batch-method  
+* What is temperature in LSTM?  
+https://www.quora.com/What-is-Temperature-in-LSTM
+
 
 ## Word Embeddings:
 * https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/
 ## Generative Adversarial Networks (GAN)
 * Intro to GAN: Motivation to Algo:  
 https://www.analyticsvidhya.com/blog/2017/06/introductory-generative-adversarial-networks-gans/
+
+
+## Learning Caffe
+* http://rodriguezandres.github.io/2016/04/28/caffe/  
+* http://christopher5106.github.io/deep/learning/2015/09/04/Deep-learning-tutorial-on-Caffe-Technology.html  
+
+## Learning PyTorch
+* http://adventuresinmachinelearning.com/pytorch-tutorial-deep-learning/  
+* https://jhui.github.io/2018/02/09/PyTorch-Variables-functionals-and-Autograd/  
+* https://jhui.github.io/2018/02/09/PyTorch-Basic-operations/  
+* https://cs230-stanford.github.io/pytorch-getting-started.html  
+* https://github.com/yunjey/pytorch-tutorial  
+* https://github.com/bfortuner/pytorch-cheatsheet/blob/master/pytorch-cheatsheet.ipynb
 
 
 ## Miscellaneous
@@ -129,4 +161,16 @@ https://www.analyticsvidhya.com/blog/2017/05/25-must-know-terms-concepts-for-beg
 https://www.analyticsvidhya.com/blog/2017/05/gpus-necessary-for-deep-learning/
 * Understanding Internal Covariate Shift and BatchNorm:  
 https://www.quora.com/Why-does-an-internal-covariate-shift-slow-down-the-training-procedure  
-https://www.youtube.com/embed/Xogn6veSyxA?start=325&end=664&version=3
+https://www.youtube.com/embed/Xogn6veSyxA?start=325&end=664&version=3  
+* Multi-Label Classification using Neural Nets:  
+https://www.depends-on-the-definition.com/guide-to-multi-label-classification-with-neural-networks/  
+* Bilinear Interpolation: Image transformation using 2 degree neighborhood  
+https://en.wikipedia.org/wiki/Bilinear\_interpolation
+
+
+### Handling imbalanced data:  
+* (Online) Hard Example Mining:  
+http://www.erogol.com/online-hard-example-mining-pytorch/  
+* General overview of the techniques:  
+https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/  
+
