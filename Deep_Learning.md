@@ -153,6 +153,9 @@ https://www.analyticsvidhya.com/blog/2017/06/introductory-generative-adversarial
 * https://github.com/yunjey/pytorch-tutorial  
 * https://github.com/bfortuner/pytorch-cheatsheet/blob/master/pytorch-cheatsheet.ipynb
 
+### PyTorch Debugging
+* https://stackoverflow.com/questions/48915810/pytorch-contiguous  
+
 
 ## Miscellaneous
 * 25 Must Know Concepts for Beginners:  
