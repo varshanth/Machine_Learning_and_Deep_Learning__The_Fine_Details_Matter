@@ -168,7 +168,7 @@ https://www.youtube.com/embed/Xogn6veSyxA?start=325&end=664&version=3
 * Multi-Label Classification using Neural Nets:  
 https://www.depends-on-the-definition.com/guide-to-multi-label-classification-with-neural-networks/  
 * Bilinear Interpolation: Image transformation using 2 degree neighborhood  
-https://en.wikipedia.org/wiki/Bilinear\_interpolation
+https://en.wikipedia.org/wiki/Bilinear_interpolation
 
 
 ### Handling imbalanced data:  
