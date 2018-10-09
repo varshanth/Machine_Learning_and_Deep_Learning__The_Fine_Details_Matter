@@ -43,6 +43,8 @@ https://ils.unc.edu/courses/2013\_spring/inls509\_001/lectures/10-EvaluationMetr
 * Excellent reasoning behind design of optimization techniques with code:  
 https://wiseodd.github.io/techblog/2016/06/22/nn-optimization/
 * Visualizing Optimizing Algorithms: https://imgur.com/a/Hqolp
+* Excellent post on LR Scheduling/Annealing (literature as of end of 2017):  
+https://www.jeremyjordan.me/nn-learning-rate/  
 
 ## Convolutional Neural Networks (CNN)
 ### Let's diverge for a second: What is convolution? (and why should CNN be actually called Cross Correlation-al Neural Network)
