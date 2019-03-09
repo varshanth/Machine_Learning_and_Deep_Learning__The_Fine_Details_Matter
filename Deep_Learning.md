@@ -34,7 +34,7 @@ https://stackoverflow.com/questions/30236856/how-does-the-back-propagation-algor
   
 ## Evaluation Metrics  
 * Metrics borrowed from IR:  
-https://ils.unc.edu/courses/2013\_spring/inls509\_001/lectures/10-EvaluationMetrics.pdf  
+https://ils.unc.edu/courses/2013_spring/inls509_001/lectures/10-EvaluationMetrics.pdf  
 
 ## Optimization Algorithms
 * CS231n Lecture 7 -  Momentum, Nesterov momentum, AdaGrad, RMSProp, Adam
