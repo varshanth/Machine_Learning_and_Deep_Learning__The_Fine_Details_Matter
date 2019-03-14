@@ -81,7 +81,7 @@ CVPR 2017 DenseNet Presentation: https://www.youtube.com/watch?v=xVhD2OBqoyg
 * Dual Path Networks by Chen et al.  
 https://arxiv.org/pdf/1707.01629.pdf
 
-#### Global Average Pooling
+### Global Average Pooling
 
 * Why is Global Average Pooling replacing FC Layers nowadays?  
 https://www.quora.com/What-is-global-average-pooling  
@@ -89,6 +89,23 @@ https://www.quora.com/What-is-global-average-pooling
 https://stats.stackexchange.com/questions/257321/what-is-global-max-pooling-layer-and-what-is-its-advantage-over-maxpooling-layer  
 * Origination & Concept Proposal by Lin et al.  
 https://arxiv.org/pdf/1312.4400.pdf  
+  
+### Architectural Innovations for Compressing CNNs
+
+* Overview:  
+https://medium.com/@nicolas_19145/state-of-the-art-in-compressing-deep-convolutional-neural-networks-cfd8c5404f22  
+* SqueezeNet Code:  
+https://github.com/gsp-27/pytorch_Squeezenet/blob/master/model.py  
+* MobileNet Explained:  
+http://machinethink.net/blog/googles-mobile-net-architecture-on-iphone/  
+* MobileNet v2 Explained:  
+http://machinethink.net/blog/mobilenet-v2/  
+https://towardsdatascience.com/mobilenetv2-inverted-residuals-and-linear-bottlenecks-8a4362f4ffd5  
+* ShuffleNet Explained:  
+https://medium.com/syncedreview/shufflenet-an-extremely-efficient-convolutional-neural-network-for-mobile-devices-72c6f5b01651  
+Code:  
+https://www.youtube.com/watch?v=pNuBdj53Hbc
+
 
 ## Advanced Computer Vision
 * CS231n Lec 11 - Semantic Segmentation, Classification + Localization, Object Detection  
@@ -98,6 +115,9 @@ https://arxiv.org/pdf/1312.4400.pdf
 https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/object_localization_and_detection.html  
 * IoU Explained:  
 https://www.pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-detection/  
+* Summaries with Mathematical Explanations:  
+https://lilianweng.github.io/lil-log/2017/12/31/object-recognition-for-dummies-part-3.html  
+https://lilianweng.github.io/lil-log/2018/12/27/object-detection-part-4.html  
 
 #### Faster RCNN
 * Faster RCNN (FRCNN) Level 1 Detailed Explanation:  
