@@ -163,6 +163,7 @@ https://www.quora.com/What-is-Temperature-in-LSTM
 * http://kavita-ganesan.com/gensim-word2vec-tutorial-starter-code/#.W_bK0zhKiUk  
 * http://kavita-ganesan.com/how-to-incorporate-phrases-into-word2vec-a-text-mining-approach/#.W_b32DhKiUk  
 * https://towardsdatascience.com/implementing-word2vec-in-pytorch-skip-gram-model-e6bae040d2fb  
+* https://stats.stackexchange.com/questions/280222/why-the-skip-gram-model-is-called-as-predicting-source-context-words-from-the-ta  
 
 
 ## Generative Adversarial Networks (GAN)
