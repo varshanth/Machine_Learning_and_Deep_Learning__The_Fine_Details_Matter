@@ -22,7 +22,6 @@ https://www.youtube.com/watch?v=eUiwhV1QcQ4
 * Difference between PCA whitening and ZCA whitening:  
 https://www.youtube.com/watch?v=eUiwhV1QcQ4
 
-
 ## Activation Functions
 * Why do we need activation functions? Different Types of Activation Functions
 * https://www.youtube.com/watch?v=-7scQpJT7uo
@@ -65,72 +64,6 @@ https://stats.stackexchange.com/questions/194142/what-does-1x1-convolution-mean-
 * Convolution Arithmetic for Deep Learning:  
 https://arxiv.org/pdf/1603.07285.pdf  
 
-
-### Revolutionary CNN Architectures
-* CS231n Lec 9 - CNN Architectures - VGGNet, GoogLeNet, ResNet, etc.
-* A brief about ResNets and its variants:  
-https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f56035
-* ResNet Paper by He et al.  
-https://arxiv.org/pdf/1512.03385.pdf  
-CVPR 2016 ResNet Presentation: https://www.youtube.com/watch?v=C6tLw-rPQ2o
-* DenseNet Paper by Huang et al.  
-https://arxiv.org/pdf/1608.06993.pdf  
-DenseNet - (L) Meaning:  
-https://github.com/liuzhuang13/DenseNetCaffe/issues/9  
-CVPR 2017 DenseNet Presentation: https://www.youtube.com/watch?v=xVhD2OBqoyg
-* Dual Path Networks by Chen et al.  
-https://arxiv.org/pdf/1707.01629.pdf
-
-### Global Average Pooling
-
-* Why is Global Average Pooling replacing FC Layers nowadays?  
-https://www.quora.com/What-is-global-average-pooling  
-* Very brief simple explanation of what GAP is:  
-https://stats.stackexchange.com/questions/257321/what-is-global-max-pooling-layer-and-what-is-its-advantage-over-maxpooling-layer  
-* Origination & Concept Proposal by Lin et al.  
-https://arxiv.org/pdf/1312.4400.pdf  
-  
-### Architectural Innovations for Compressing CNNs
-
-* Overview:  
-https://medium.com/@nicolas_19145/state-of-the-art-in-compressing-deep-convolutional-neural-networks-cfd8c5404f22  
-* SqueezeNet Code:  
-https://github.com/gsp-27/pytorch_Squeezenet/blob/master/model.py  
-* MobileNet Explained:  
-http://machinethink.net/blog/googles-mobile-net-architecture-on-iphone/  
-* MobileNet v2 Explained:  
-http://machinethink.net/blog/mobilenet-v2/  
-https://towardsdatascience.com/mobilenetv2-inverted-residuals-and-linear-bottlenecks-8a4362f4ffd5  
-* ShuffleNet Explained:  
-https://medium.com/syncedreview/shufflenet-an-extremely-efficient-convolutional-neural-network-for-mobile-devices-72c6f5b01651  
-Code:  
-https://www.youtube.com/watch?v=pNuBdj53Hbc
-
-
-## Advanced Computer Vision
-* CS231n Lec 11 - Semantic Segmentation, Classification + Localization, Object Detection  
-
-### Object Detection
-* Succinct Explanations:  
-https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/object_localization_and_detection.html  
-* IoU Explained:  
-https://www.pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-detection/  
-* Summaries with Mathematical Explanations:  
-https://lilianweng.github.io/lil-log/2017/12/31/object-recognition-for-dummies-part-3.html  
-https://lilianweng.github.io/lil-log/2018/12/27/object-detection-part-4.html  
-
-#### Faster RCNN
-* Faster RCNN (FRCNN) Level 1 Detailed Explanation:  
-https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/  
-* FRCNN Level 2 Detailed Explanation:  
-http://www.telesens.co/2018/03/11/object-detection-and-classification-using-r-cnns/  
-* L1 Loss for BBox Regression:  
-https://mohitjainweb.files.wordpress.com/2018/03/smoothl1loss.pdf  
-* Anchor Box Seeding:  
-https://lars76.github.io/object-detection/k-means-anchor-boxes/  
-* Region of Interest (RoI) Pooling:  
-https://blog.deepsense.ai/region-of-interest-pooling-explained/  
-
 ## Recurrent Neural Networks (RNN), Long Short Term Memory (LSTM) and Gated Recurrent Units (GRU)
 * CS231n Lec 10 - RNN architecture, examples, drawbacks, requirement for LSTM, LSTM architecture etc.
 * **Very important** to understand the difference between number of hidden units and RNN Cells because the definition in literature is different from that of implementation:   
@@ -155,21 +88,9 @@ https://www.quora.com/How-are-inputs-fed-into-the-LSTM-RNN-network-in-mini-batch
 * What is temperature in LSTM?  
 https://www.quora.com/What-is-Temperature-in-LSTM
 
-
-## Word Embeddings:
-* https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/  
-* http://mccormickml.com/2016/04/19/word2vec-tutorial-the-skip-gram-model/  
-* http://mccormickml.com/2017/01/11/word2vec-tutorial-part-2-negative-sampling/  
-* http://kavita-ganesan.com/gensim-word2vec-tutorial-starter-code/#.W_bK0zhKiUk  
-* http://kavita-ganesan.com/how-to-incorporate-phrases-into-word2vec-a-text-mining-approach/#.W_b32DhKiUk  
-* https://towardsdatascience.com/implementing-word2vec-in-pytorch-skip-gram-model-e6bae040d2fb  
-* https://stats.stackexchange.com/questions/280222/why-the-skip-gram-model-is-called-as-predicting-source-context-words-from-the-ta  
-
-
 ## Generative Adversarial Networks (GAN)
 * Intro to GAN: Motivation to Algo:  
 https://www.analyticsvidhya.com/blog/2017/06/introductory-generative-adversarial-networks-gans/
-
 
 ## Learning Caffe
 * http://rodriguezandres.github.io/2016/04/28/caffe/  
@@ -187,7 +108,6 @@ https://www.analyticsvidhya.com/blog/2017/06/introductory-generative-adversarial
 * https://stackoverflow.com/questions/48915810/pytorch-contiguous  
 * https://pytorch.org/tutorials/beginner/saving_loading_models.html#saving-loading-model-for-inference  
 
-
 ## Miscellaneous
 * 25 Must Know Concepts for Beginners:  
 https://www.analyticsvidhya.com/blog/2017/05/25-must-know-terms-concepts-for-beginners-in-deep-learning/
@@ -201,10 +121,12 @@ https://www.depends-on-the-definition.com/guide-to-multi-label-classification-wi
 * Bilinear Interpolation: Image transformation using 2 degree neighborhood  
 https://en.wikipedia.org/wiki/Bilinear_interpolation
 
-
 ### Handling imbalanced data:  
 * (Online) Hard Example Mining:  
 http://www.erogol.com/online-hard-example-mining-pytorch/  
 * General overview of the techniques:  
 https://www.analyticsvidhya.com/blog/2017/03/imbalanced-classification-problem/  
+
+## In Depth: [DL: Computer Vision](Computer_Vision/Computer_Vision_DL.md)
+## In Depth: [DL: Natural Language Processing](Natural_Language_Processing/NLP_DL.md)
 
