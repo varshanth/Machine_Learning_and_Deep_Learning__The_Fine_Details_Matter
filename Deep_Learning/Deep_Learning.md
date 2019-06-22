@@ -108,6 +108,14 @@ https://www.analyticsvidhya.com/blog/2017/06/introductory-generative-adversarial
 * https://stackoverflow.com/questions/48915810/pytorch-contiguous  
 * https://pytorch.org/tutorials/beginner/saving_loading_models.html#saving-loading-model-for-inference  
 
+## Keras Stuff
+* Grid Search With Keras:  
+https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/  
+Grid Search Doc:  
+https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html  
+* Early Stopping with Grid Search in Keras:  
+https://stackoverflow.com/questions/48127550/early-stopping-with-keras-and-sklearn-gridsearchcv-cross-validation  
+
 ## Miscellaneous
 * 25 Must Know Concepts for Beginners:  
 https://www.analyticsvidhya.com/blog/2017/05/25-must-know-terms-concepts-for-beginners-in-deep-learning/
