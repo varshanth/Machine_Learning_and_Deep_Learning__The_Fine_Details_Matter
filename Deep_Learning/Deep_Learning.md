@@ -123,7 +123,10 @@ https://www.analyticsvidhya.com/blog/2017/05/25-must-know-terms-concepts-for-beg
 https://www.analyticsvidhya.com/blog/2017/05/gpus-necessary-for-deep-learning/
 * Understanding Internal Covariate Shift and BatchNorm:  
 https://www.quora.com/Why-does-an-internal-covariate-shift-slow-down-the-training-procedure  
-https://www.youtube.com/embed/Xogn6veSyxA?start=325&end=664&version=3  
+https://www.youtube.com/embed/Xogn6veSyxA?start=325&end=664&version=3 
+* Weight Normalization & Layer Normalization:  
+http://mlexplained.com/2018/01/10/an-intuitive-explanation-of-why-batch-normalization-really-works-normalization-in-deep-learning-part-1/  
+https://mlexplained.com/2018/01/13/weight-normalization-and-layer-normalization-explained-normalization-in-deep-learning-part-2/  
 * Multi-Label Classification using Neural Nets:  
 https://www.depends-on-the-definition.com/guide-to-multi-label-classification-with-neural-networks/  
 * Bilinear Interpolation: Image transformation using 2 degree neighborhood  
