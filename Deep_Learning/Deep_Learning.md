@@ -118,7 +118,9 @@ https://stackoverflow.com/questions/48127550/early-stopping-with-keras-and-sklea
 
 ## Miscellaneous
 * 25 Must Know Concepts for Beginners:  
-https://www.analyticsvidhya.com/blog/2017/05/25-must-know-terms-concepts-for-beginners-in-deep-learning/
+https://www.analyticsvidhya.com/blog/2017/05/25-must-know-terms-concepts-for-beginners-in-deep-learning/  
+* Different Types of Loss Functions:  
+https://isaacchanghau.github.io/post/loss_functions/  
 * Why do we need GPUs?  
 https://www.analyticsvidhya.com/blog/2017/05/gpus-necessary-for-deep-learning/
 * Understanding Internal Covariate Shift and BatchNorm:  
