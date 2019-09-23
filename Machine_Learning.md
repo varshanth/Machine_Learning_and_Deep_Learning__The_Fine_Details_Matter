@@ -110,6 +110,20 @@ https://www.youtube.com/watch?v=Ilg3gGewQ5U
 * Backprop maths: https://www.youtube.com/watch?v=gl3lfL-g5mA
 * More Backprop maths: https://www.youtube.com/watch?v=aVId8KMsdUU
 
+## Density Estimation
+
+* Histograms vs KDE. Visualizations and Explanations:  
+https://mglerner.github.io/posts/histograms-and-kernel-density-estimation-kde-2.html  
+* KDE Brief Explanation:  
+http://www.mvstat.net/tduong/research/seminars/seminar-2001-05/  
+* KDE Explanation with Visualization:  
+https://www.quora.com/What-is-the-intuitive-explanation-of-the-formula-for-kernel-density-estimator  
+https://www.quora.com/What-is-kernel-density-estimation  
+* KDE Master Explanation with Maths:  
+http://faculty.washington.edu/yenchic/17Sp_403/Lec7-density.pdf
+* KDE in Python (Influence and Diversity of Parameters):  
+https://jakevdp.github.io/blog/2013/12/01/kernel-density-estimation/
+
 ## Miscellaneous
 * What is the difference between a generative and discriminative algorithm?  
 https://stackoverflow.com/questions/879432/what-is-the-difference-between-a-generative-and-discriminative-algorithm
