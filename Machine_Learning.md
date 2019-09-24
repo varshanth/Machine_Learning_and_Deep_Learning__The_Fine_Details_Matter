@@ -112,6 +112,8 @@ https://www.youtube.com/watch?v=Ilg3gGewQ5U
 
 ## Density Estimation
 
+* What is PDF?  
+https://www.quora.com/How-does-one-interpret-probability-density-greater-than-one-What-is-the-physical-significance-of-probability-density-Is-it-just-a-mathematical-tool  
 * Histograms vs KDE. Visualizations and Explanations:  
 https://mglerner.github.io/posts/histograms-and-kernel-density-estimation-kde-2.html  
 * KDE Brief Explanation:  
