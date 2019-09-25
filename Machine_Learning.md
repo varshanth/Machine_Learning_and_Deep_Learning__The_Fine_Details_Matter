@@ -116,6 +116,7 @@ https://www.youtube.com/watch?v=Ilg3gGewQ5U
 https://www.quora.com/How-does-one-interpret-probability-density-greater-than-one-What-is-the-physical-significance-of-probability-density-Is-it-just-a-mathematical-tool  
 * Histograms vs KDE. Visualizations and Explanations:  
 https://mglerner.github.io/posts/histograms-and-kernel-density-estimation-kde-2.html  
+https://scikit-learn.org/stable/modules/density.html  
 * KDE Brief Explanation:  
 http://www.mvstat.net/tduong/research/seminars/seminar-2001-05/  
 * KDE Explanation with Visualization:  
