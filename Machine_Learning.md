@@ -122,7 +122,7 @@ http://www.mvstat.net/tduong/research/seminars/seminar-2001-05/
 https://www.quora.com/What-is-the-intuitive-explanation-of-the-formula-for-kernel-density-estimator  
 https://www.quora.com/What-is-kernel-density-estimation  
 * KDE Master Explanation with Maths:  
-http://faculty.washington.edu/yenchic/17Sp_403/Lec7-density.pdf
+http://faculty.washington.edu/yenchic/18W_425/Lec6_hist_KDE.pdf
 * KDE in Python (Influence and Diversity of Parameters):  
 https://jakevdp.github.io/blog/2013/12/01/kernel-density-estimation/
 
