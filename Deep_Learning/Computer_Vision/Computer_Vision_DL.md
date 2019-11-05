@@ -87,6 +87,7 @@ https://blog.deepsense.ai/region-of-interest-pooling-explained/
 * https://medium.com/@smallfishbigsea/understand-ssd-and-implement-your-own-caa3232cd6ad  
 * https://medium.com/@jonathan_hui/ssd-object-detection-single-shot-multibox-detector-for-real-time-processing-9bd8deac0e06  
 * https://towardsdatascience.com/review-ssd-single-shot-detector-object-detection-851a94607d11
+* http://www.telesens.co/2018/06/28/data-augmentation-in-ssd/#Data_Augmentation_Steps
 
 #### RetinaNet
 
