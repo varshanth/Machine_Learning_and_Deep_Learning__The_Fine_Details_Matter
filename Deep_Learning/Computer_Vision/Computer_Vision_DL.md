@@ -43,7 +43,7 @@ https://medium.com/syncedreview/shufflenet-an-extremely-efficient-convolutional-
 Code:  
 https://www.youtube.com/watch?v=pNuBdj53Hbc
 
-### Object Detection
+## Object Detection
 * Succinct Explanations:  
 https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/content/object_localization_and_detection.html  
 * IoU Explained:  
@@ -52,7 +52,7 @@ https://www.pyimagesearch.com/2016/11/07/intersection-over-union-iou-for-object-
 https://lilianweng.github.io/lil-log/2017/12/31/object-recognition-for-dummies-part-3.html  
 https://lilianweng.github.io/lil-log/2018/12/27/object-detection-part-4.html  
 
-#### Evaluation Metric: mean Average Precision (mAP)  
+### Evaluation Metric: mean Average Precision (mAP)  
 * Read until (excluding) Interpolated Precision [Their toy example is wrong]:  
 https://towardsdatascience.com/breaking-down-mean-average-precision-map-ae462f623a52
 * Should make things crystal clear:  
@@ -69,7 +69,7 @@ In summary:
 5) Perform Steps 1) to 4) for all classes  
 6) Take average across all classes to get the mAP@T  
 
-#### Faster RCNN
+### Faster RCNN
 * Faster RCNN (FRCNN) Level 1 Detailed Explanation:  
 https://tryolabs.com/blog/2018/01/18/faster-r-cnn-down-the-rabbit-hole-of-modern-object-detection/  
 * FRCNN Level 2 Detailed Explanation:  
@@ -82,13 +82,13 @@ https://lars76.github.io/object-detection/k-means-anchor-boxes/
 * Region of Interest (RoI) Pooling:  
 https://blog.deepsense.ai/region-of-interest-pooling-explained/  
 
-#### SSD
+### SSD
 
 * https://medium.com/@smallfishbigsea/understand-ssd-and-implement-your-own-caa3232cd6ad  
 * https://medium.com/@jonathan_hui/ssd-object-detection-single-shot-multibox-detector-for-real-time-processing-9bd8deac0e06  
 * https://towardsdatascience.com/review-ssd-single-shot-detector-object-detection-851a94607d11
 * http://www.telesens.co/2018/06/28/data-augmentation-in-ssd/#Data_Augmentation_Steps
 
-#### RetinaNet
+### RetinaNet
 
 * https://towardsdatascience.com/review-retinanet-focal-loss-object-detection-38fba6afabe4  
