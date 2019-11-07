@@ -132,7 +132,9 @@ https://mlexplained.com/2018/01/13/weight-normalization-and-layer-normalization-
 * Multi-Label Classification using Neural Nets:  
 https://www.depends-on-the-definition.com/guide-to-multi-label-classification-with-neural-networks/  
 * Bilinear Interpolation: Image transformation using 2 degree neighborhood  
-https://en.wikipedia.org/wiki/Bilinear_interpolation
+https://en.wikipedia.org/wiki/Bilinear_interpolation  
+* Tradeoff between batch size and number of iterations:  
+https://stats.stackexchange.com/questions/164876/tradeoff-batch-size-vs-number-of-iterations-to-train-a-neural-network
 
 ### Handling imbalanced data:  
 * (Online) Hard Example Mining:  
