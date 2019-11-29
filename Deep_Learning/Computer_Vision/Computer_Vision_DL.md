@@ -92,3 +92,22 @@ https://blog.deepsense.ai/region-of-interest-pooling-explained/
 ### RetinaNet
 
 * https://towardsdatascience.com/review-retinanet-focal-loss-object-detection-38fba6afabe4  
+
+
+## Transpose Convolutions
+
+* Use as basics to calculate output:  
+https://d2l.ai/chapter_computer-vision/tranposed-conv.html  
+* A solid way to view convolutions and hence transpose convolutions:  
+https://medium.com/activating-robotic-minds/up-sampling-with-transposed-convolution-9ae4f2df52d0  
+* Visual learning -> Work these out on your own:  
+https://medium.com/apache-mxnet/transposed-convolutions-explained-with-ms-excel-52d13030c7e8  
+* Master guide to convolution arithmetic:  
+https://arxiv.org/pdf/1603.07285.pdf  
+
+* Note: When you want to understand the striding in transpose convolutions, the visualizations in the above links use zeros between the input values so that it can be visualized with normal transpose convolutions with stride 1. This visualization does NOT mean to convolve the kernel with the input values in parallel i.e. you will never somehow combine 2 input values to multiply against the kernel. It should be rather interpreted as a sequential multiplication of 1 input value at a time with the entire kernel, then going to the next. In this way, when you reach the 0 in between 2 input values, you are only multiplying the entire kernel with all 0s.  
+Think of it like (USE RAW FORMAT TO VISUALIZE):  
+  
+  I  0   I  0   I   0   I  0  I  
+              / x \  
+           K e r n e l  
