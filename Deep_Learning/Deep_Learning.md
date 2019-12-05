@@ -59,6 +59,8 @@ http://mathworld.wolfram.com/Convolution.html
 * Calculating the effective field of a CNN:  
 http://shawnleezx.github.io/blog/2017/02/11/calculating-receptive-field-of-cnn/
 * How CNN Work by Brandon Rohrer: https://www.youtube.com/watch?v=FmpDIaiMIeA
+* Why Convolutions use odd numbers as filter size?  
+https://datascience.stackexchange.com/questions/23183/why-convolutions-always-use-odd-numbers-as-filter-size
 * What are 1x1 convolutions used for:  
 https://stats.stackexchange.com/questions/194142/what-does-1x1-convolution-mean-in-a-neural-network  
 * Convolution Arithmetic for Deep Learning:  
@@ -136,9 +138,7 @@ https://en.wikipedia.org/wiki/Bilinear_interpolation
 * Tradeoff between batch size and number of iterations:  
 https://stats.stackexchange.com/questions/164876/tradeoff-batch-size-vs-number-of-iterations-to-train-a-neural-network
 * Why are NN becoming deeper not wider?  
-https://stats.stackexchange.com/questions/222883/why-are-neural-networks-becoming-deeper-but-not-wider  
-* Why Convolutions use odd numbers as filter size?  
-https://datascience.stackexchange.com/questions/23183/why-convolutions-always-use-odd-numbers-as-filter-size 
+https://stats.stackexchange.com/questions/222883/why-are-neural-networks-becoming-deeper-but-not-wider   
 
 ### Handling imbalanced data:  
 * (Online) Hard Example Mining:  
