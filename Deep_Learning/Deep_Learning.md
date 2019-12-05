@@ -135,6 +135,10 @@ https://www.depends-on-the-definition.com/guide-to-multi-label-classification-wi
 https://en.wikipedia.org/wiki/Bilinear_interpolation  
 * Tradeoff between batch size and number of iterations:  
 https://stats.stackexchange.com/questions/164876/tradeoff-batch-size-vs-number-of-iterations-to-train-a-neural-network
+* Why are NN becoming deeper not wider?  
+https://stats.stackexchange.com/questions/222883/why-are-neural-networks-becoming-deeper-but-not-wider  
+* Why Convolutions use odd numbers as filter size?  
+https://datascience.stackexchange.com/questions/23183/why-convolutions-always-use-odd-numbers-as-filter-size 
 
 ### Handling imbalanced data:  
 * (Online) Hard Example Mining:  
