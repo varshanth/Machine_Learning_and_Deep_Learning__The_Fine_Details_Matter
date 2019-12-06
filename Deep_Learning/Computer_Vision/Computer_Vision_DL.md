@@ -93,6 +93,12 @@ https://blog.deepsense.ai/region-of-interest-pooling-explained/
 
 * https://towardsdatascience.com/review-retinanet-focal-loss-object-detection-38fba6afabe4  
 
+### Feature Pyramid Network
+
+* Good foundation read:  
+https://medium.com/@jonathan_hui/understanding-feature-pyramid-networks-for-object-detection-fpn-45b227b9106c 
+* Detailed in some aspects:  
+https://towardsdatascience.com/review-fpn-feature-pyramid-network-object-detection-262fc7482610  
 
 ## Transpose Convolutions
 
