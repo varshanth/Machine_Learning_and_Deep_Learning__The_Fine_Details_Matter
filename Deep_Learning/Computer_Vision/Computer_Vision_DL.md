@@ -100,6 +100,26 @@ https://medium.com/@jonathan_hui/understanding-feature-pyramid-networks-for-obje
 * Detailed in some aspects:  
 https://towardsdatascience.com/review-fpn-feature-pyramid-network-object-detection-262fc7482610  
 
+### YOLO
+
+* General overview of all YOLO architecture:  
+https://medium.com/@jonathan_hui/real-time-object-detection-with-yolo-yolov2-28b1b93e2088  
+* YOLOv3 more general introduction:  
+https://towardsdatascience.com/yolo-v3-object-detection-53fb7d3bfe6b  
+* YOLO Loss Function Explained:  
+https://stats.stackexchange.com/questions/287486/yolo-loss-function-explanation  
+* YOLO Loss Function Explained with Code:  
+https://towardsdatascience.com/calculating-loss-of-yolo-v3-layer-8878bfaaf1ff  
+* Implementation of YOLOv3 in PyTorch: Can use to understand from code  
+https://blog.paperspace.com/how-to-implement-a-yolo-v3-object-detector-from-scratch-in-pytorch-part-2/  
+* YOLO Papers:  
+YOLOv1: https://arxiv.org/pdf/1506.02640.pdf  
+YOLOv2: https://arxiv.org/pdf/1612.08242.pdf  
+YOLOv3: https://pjreddie.com/media/files/papers/YOLOv3.pdf  
+* Good PyTorch Implementation:  
+https://github.com/eriklindernoren/PyTorch-YOLOv3
+
+
 ## Transpose Convolutions
 
 * Use as basics to calculate output:  
