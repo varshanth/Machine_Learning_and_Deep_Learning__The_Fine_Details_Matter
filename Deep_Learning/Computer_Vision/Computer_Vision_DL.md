@@ -42,6 +42,8 @@ https://towardsdatascience.com/mobilenetv2-inverted-residuals-and-linear-bottlen
 https://medium.com/syncedreview/shufflenet-an-extremely-efficient-convolutional-neural-network-for-mobile-devices-72c6f5b01651  
 Code:  
 https://www.youtube.com/watch?v=pNuBdj53Hbc
+* SqueezeNext: To understand, just look at the diagram  
+https://arxiv.org/pdf/1803.10615.pdf
 
 ## Object Detection
 * Succinct Explanations:  
