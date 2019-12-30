@@ -121,6 +121,13 @@ YOLOv3: https://pjreddie.com/media/files/papers/YOLOv3.pdf
 * Good PyTorch Implementation:  
 https://github.com/eriklindernoren/PyTorch-YOLOv3
 
+## Techniques to Improve Object Detection Performance
+* Data Augmentation in SSD:  
+http://www.telesens.co/2018/06/28/data-augmentation-in-ssd/#Data_Augmentation_Steps
+* More Augmentation - BBox Ops, Rotation, Shear, Equalize, Translate:  
+https://arxiv.org/pdf/1906.11172v1.pdf
+* Mixup, Label Smoothing, Cosine LR Scheduling:  
+https://arxiv.org/pdf/1902.04103.pdf
 
 ## Transpose Convolutions
 
