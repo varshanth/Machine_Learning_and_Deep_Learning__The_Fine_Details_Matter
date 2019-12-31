@@ -110,7 +110,17 @@ https://www.youtube.com/watch?v=Ilg3gGewQ5U
 * Backprop maths: https://www.youtube.com/watch?v=gl3lfL-g5mA
 * More Backprop maths: https://www.youtube.com/watch?v=aVId8KMsdUU
 
-## Density Estimation
+## Statistical Concepts
+
+### Beta Distribution
+* Intuition by Example:  
+http://varianceexplained.org/statistics/beta_distribution_and_baseball/  
+http://www.joyofdata.de/blog/an-intuitive-interpretation-of-the-beta-distribution/  
+https://www.johndcook.com/blog/2011/09/27/bayesian-amazon/  
+* Formula:  
+https://stephens999.github.io/fiveMinuteStats/beta.html  
+
+### Density Estimation
 
 * What is PDF?  
 https://www.quora.com/How-does-one-interpret-probability-density-greater-than-one-What-is-the-physical-significance-of-probability-density-Is-it-just-a-mathematical-tool  
