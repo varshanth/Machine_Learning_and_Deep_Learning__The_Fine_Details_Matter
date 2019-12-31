@@ -50,7 +50,6 @@ Considerations:
 1) Memory Access Cost (MAC)  
 2) FLOPs  
 3) Accuracy  
-
 4 Guidelines:  
 1) Equal Channel Width Reduces MAC  
 2) Excessive Group Convolution Increases MAC  
