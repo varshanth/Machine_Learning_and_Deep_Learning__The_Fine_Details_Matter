@@ -119,6 +119,8 @@ http://www.joyofdata.de/blog/an-intuitive-interpretation-of-the-beta-distributio
 https://www.johndcook.com/blog/2011/09/27/bayesian-amazon/  
 * Formula:  
 https://stephens999.github.io/fiveMinuteStats/beta.html  
+* Formula explained by Ben Lambert:  
+https://www.youtube.com/watch?v=KIXFlK1dajE
 
 ### Density Estimation
 
