@@ -17,6 +17,12 @@ https://github.com/liuzhuang13/DenseNetCaffe/issues/9
 CVPR 2017 DenseNet Presentation: https://www.youtube.com/watch?v=xVhD2OBqoyg
 * Dual Path Networks by Chen et al.  
 https://arxiv.org/pdf/1707.01629.pdf
+* CBNet - The concept of parallel composite networks:  
+https://arxiv.org/pdf/1909.03625v1.pdf  
+* MixConv - Different sized kernels for each group (type of group convolution):  
+https://arxiv.org/pdf/1907.09595.pdf  
+* Res2Net - Homogeneous group wise sequential residual convolutions (Beware of the training time):  
+https://arxiv.org/pdf/1904.01169.pdf  
 
 ### Global Average Pooling
 
