@@ -163,3 +163,10 @@ Think of it like (USE RAW FORMAT TO VISUALIZE):
   I  0   I  0   I   0   I  0  I  
               / x \  
            K e r n e l  
+
+
+## Data Augmentation:  
+* General strategies:  
+https://link.springer.com/article/10.1186/s40537-019-0197-0  
+* Mixup:  
+https://arxiv.org/pdf/1710.09412.pdf
