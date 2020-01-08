@@ -56,11 +56,11 @@ Considerations:
 1) Memory Access Cost (MAC)  
 2) FLOPs  
 3) Accuracy    
-4 Guidelines:  
-1) Equal Channel Width Reduces MAC  
-2) Excessive Group Convolution Increases MAC  
-3) Network Fragmentation (Blocks of multiple small convolution ops) reduces parallelism  
-4) Elementwise Ops have High MAC  
+** 4 Guidelines:  
+A) Equal Channel Width Reduces MAC  
+B) Excessive Group Convolution Increases MAC  
+C) Network Fragmentation (Blocks of multiple small convolution ops) reduces parallelism  
+D) Elementwise Ops have High MAC  
 
 ## Object Detection
 * Succinct Explanations:  
@@ -145,6 +145,10 @@ http://www.telesens.co/2018/06/28/data-augmentation-in-ssd/#Data_Augmentation_St
 https://arxiv.org/pdf/1906.11172v1.pdf
 * Mixup, Label Smoothing, Cosine LR Scheduling:  
 https://arxiv.org/pdf/1902.04103.pdf
+* Generalized IoU as a Loss Metric:  
+https://giou.stanford.edu/GIoU.pdf  
+** I do not agree with their stance that minimizing L<sub>n</sub> losses is not correlated to increasing IoU. In their example they just visualize a single (GT & Predicted) corner's L2 norm. In practice, all losses minimize the L<sub>n</sub> norm of all the corners which effectively brings the predicted BBox closer to the GT. You can think of it like 4 magnets around the corners of the GT image pulling the predicted box near it.  
+** The GIoU metric can be used as a loss. The loss, in addition to maximizing IoU, is also intended to minimize the empty space in the minimal box which contains both the predicted and ground box. By minimizing the empty space, the network learns to align the prediction boxes as well.
 
 ## Transpose Convolutions
 
