@@ -51,13 +51,12 @@ https://www.youtube.com/watch?v=pNuBdj53Hbc
 * SqueezeNext: To understand, just look at the diagram  
 https://arxiv.org/pdf/1803.10615.pdf
 * ShuffleNet v2: Extremely wise guidelines for Designing CNN Architectures:  
-https://arxiv.org/pdf/1807.11164.pdf    
-Considerations:  
-1) Memory Access Cost (MAC)  
-2) FLOPs  
-3) Accuracy    
-
-4 Guidelines:  
+https://arxiv.org/pdf/1807.11164.pdf  
+  * Considerations:  
+A) Memory Access Cost (MAC)  
+B) FLOPs  
+C) Accuracy    
+  * 4 Guidelines:  
 A) Equal Channel Width Reduces MAC  
 B) Excessive Group Convolution Increases MAC  
 C) Network Fragmentation (Blocks of multiple small convolution ops) reduces parallelism  
