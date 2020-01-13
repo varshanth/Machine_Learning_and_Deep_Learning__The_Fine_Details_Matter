@@ -23,6 +23,10 @@ https://arxiv.org/pdf/1909.03625v1.pdf
 https://arxiv.org/pdf/1907.09595.pdf  
 * Res2Net - Homogeneous group wise sequential residual convolutions (Beware of the training time):  
 https://arxiv.org/pdf/1904.01169.pdf  
+* FishNet:  
+https://papers.nips.cc/paper/7356-fishnet-a-versatile-backbone-for-image-region-and-pixel-level-prediction.pdf
+  * Identifies the concept of Isolated Convolution (I-Conv) i.e. the convolution which is used to act as a residual between layers of unequal channel size. The non residual layer usually downsamples the feature map and doubles the channels. The I-Conv is subjected to vanishing gradient problem which hampers "Direct BackProp" to the deeper layers. 
+  * FishNet removes I-Conv and instead makes use of upsampling and downsampling techniques to coalesce feature maps of the same spatial size through concatenation like U-Net, while simultaneously increasing the receptive field.
 
 ### Global Average Pooling
 
