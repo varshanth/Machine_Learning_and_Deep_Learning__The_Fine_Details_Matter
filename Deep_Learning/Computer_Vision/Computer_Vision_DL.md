@@ -134,7 +134,10 @@ https://stats.stackexchange.com/questions/287486/yolo-loss-function-explanation
 * YOLO Loss Function Explained with Code:  
 https://towardsdatascience.com/calculating-loss-of-yolo-v3-layer-8878bfaaf1ff  
 * Implementation of YOLOv3 in PyTorch: Can use to understand from code  
-https://blog.paperspace.com/how-to-implement-a-yolo-v3-object-detector-from-scratch-in-pytorch-part-2/  
+https://blog.paperspace.com/how-to-implement-a-yolo-v3-object-detector-from-scratch-in-pytorch-part-2/ 
+* YOLOv3 Explained - Complete Including Training Techniques:  
+https://github.com/YunYang1994/cv-notebooks/blob/master/ai_algorithm/YOLOv3.md
+
 * YOLO Papers:  
 YOLOv1: https://arxiv.org/pdf/1506.02640.pdf  
 YOLOv2: https://arxiv.org/pdf/1612.08242.pdf  
