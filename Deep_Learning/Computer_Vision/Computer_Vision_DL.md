@@ -10,6 +10,9 @@ https://towardsdatascience.com/an-overview-of-resnet-and-its-variants-5281e2f560
 * ResNet Paper by He et al.  
 https://arxiv.org/pdf/1512.03385.pdf  
 CVPR 2016 ResNet Presentation: https://www.youtube.com/watch?v=C6tLw-rPQ2o
+* Keeping clean the residual connection: Pre Activation Resnet:  
+https://towardsdatascience.com/resnet-with-identity-mapping-over-1000-layers-reached-image-classification-bb50a42af03e  
+https://arxiv.org/pdf/1603.05027.pdf  
 * DenseNet Paper by Huang et al.  
 https://arxiv.org/pdf/1608.06993.pdf  
 DenseNet - (L) Meaning:  
