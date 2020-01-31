@@ -42,6 +42,8 @@ https://ils.unc.edu/courses/2013_spring/inls509_001/lectures/10-EvaluationMetric
 * Excellent reasoning behind design of optimization techniques with code:  
 https://wiseodd.github.io/techblog/2016/06/22/nn-optimization/
 * Visualizing Optimizing Algorithms: https://imgur.com/a/Hqolp
+* Finding a good learning rate:  
+https://sgugger.github.io/how-do-you-find-a-good-learning-rate.html
 * Excellent post on LR Scheduling/Annealing (literature as of end of 2017):  
 https://www.jeremyjordan.me/nn-learning-rate/  
 
