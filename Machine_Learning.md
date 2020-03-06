@@ -144,6 +144,8 @@ https://jakevdp.github.io/blog/2013/12/01/kernel-density-estimation/
 https://stackoverflow.com/questions/879432/what-is-the-difference-between-a-generative-and-discriminative-algorithm
 * What is the difference between a hyperparameter and a parameter?  
 https://machinelearningmastery.com/difference-between-a-parameter-and-a-hyperparameter/
+* Why do activation functions have to be monotonic?  
+https://datascience.stackexchange.com/questions/9233/why-do-activation-functions-have-to-be-monotonic
 * A nice ML/DL FAQ Page:  
 https://sebastianraschka.com/faq/index.html  
 
