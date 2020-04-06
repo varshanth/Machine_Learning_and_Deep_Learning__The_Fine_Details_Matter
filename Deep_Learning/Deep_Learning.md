@@ -96,6 +96,15 @@ https://www.quora.com/What-is-Temperature-in-LSTM
 * Intro to GAN: Motivation to Algo:  
 https://www.analyticsvidhya.com/blog/2017/06/introductory-generative-adversarial-networks-gans/
 
+## Model Resource Usage
+* FLOPs, MACC etc. :  
+https://machinethink.net/blog/how-fast-is-my-model/  
+https://zhuanlan.zhihu.com/p/33992733  
+Help To Calculate FLOPs for Conv https://pytorch.org/docs/stable/nn.html#convolution-layers  
+MACC = H<sub>out</sub>W<sub>out</sub>K<sup>2</sup>D<sub>in</sub>D<sub>out</sub>  
+FLOPs = H<sub>out</sub>W<sub>out</sub>D<sub>out</sub>(2K<sup>2</sup>D<sub>in</sub> + 1 [For Bias])
+
+
 ## Learning Caffe
 * http://rodriguezandres.github.io/2016/04/28/caffe/  
 * http://christopher5106.github.io/deep/learning/2015/09/04/Deep-learning-tutorial-on-Caffe-Technology.html  
