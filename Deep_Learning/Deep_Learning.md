@@ -60,7 +60,9 @@ http://mathworld.wolfram.com/Convolution.html
 * CS231n Lec 5 - Internals of CNN, receptive field, calculating new dimensions after convolution etc.
 * Calculating the effective field of a CNN:  
 http://shawnleezx.github.io/blog/2017/02/11/calculating-receptive-field-of-cnn/
-* How CNN Work by Brandon Rohrer: https://www.youtube.com/watch?v=FmpDIaiMIeA
+* How CNN Work by Brandon Rohrer: https://www.youtube.com/watch?v=FmpDIaiMIeA  
+* How are feature maps produced by kernels when there exists multiple input channels?  
+https://stackoverflow.com/questions/27728531/convolutional-neural-networks-multiple-channels
 * Why Convolutions use odd numbers as filter size?  
 https://datascience.stackexchange.com/questions/23183/why-convolutions-always-use-odd-numbers-as-filter-size
 * What are 1x1 convolutions used for:  
