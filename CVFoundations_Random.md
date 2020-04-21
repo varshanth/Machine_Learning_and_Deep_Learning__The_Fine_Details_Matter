@@ -27,3 +27,10 @@ https://mpatacchiola.github.io/blog/2016/11/12/the-simplest-classifier-histogram
 https://www.pyimagesearch.com/2014/07/14/3-ways-compare-histograms-using-opencv-python/   
 https://stackoverflow.com/questions/6499491/comparing-two-histograms  
 
+## Laplacian Filter
+
+* Explanation of the theory and derivation of the filter:  
+https://www.youtube.com/watch?v=kJKgCwUzkmc  
+* https://stackoverflow.com/questions/48319918/whats-the-theory-behind-computing-variance-of-an-image  
+* OpenCV Code:  
+https://www.pyimagesearch.com/2015/09/07/blur-detection-with-opencv/
