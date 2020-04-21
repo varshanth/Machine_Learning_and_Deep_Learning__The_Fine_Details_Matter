@@ -32,5 +32,5 @@ https://stackoverflow.com/questions/6499491/comparing-two-histograms
 * Explanation of the theory and derivation of the filter:  
 https://www.youtube.com/watch?v=kJKgCwUzkmc  
 * https://stackoverflow.com/questions/48319918/whats-the-theory-behind-computing-variance-of-an-image  
-* OpenCV Code:  
+* Blur Detection with Laplacian Filter - OpenCV Code:  
 https://www.pyimagesearch.com/2015/09/07/blur-detection-with-opencv/
