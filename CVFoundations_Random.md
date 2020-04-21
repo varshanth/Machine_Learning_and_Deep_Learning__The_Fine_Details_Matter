@@ -34,3 +34,6 @@ https://www.youtube.com/watch?v=kJKgCwUzkmc
 * https://stackoverflow.com/questions/48319918/whats-the-theory-behind-computing-variance-of-an-image  
 * Blur Detection with Laplacian Filter - OpenCV Code:  
 https://www.pyimagesearch.com/2015/09/07/blur-detection-with-opencv/
+  * Choosing a threshold for Var(Lap):  
+  https://medium.com/snapaddy-tech-blog/mobile-image-blur-detection-with-machine-learning-c0b703eab7de
+  
