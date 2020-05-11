@@ -123,6 +123,8 @@ FLOPs = H<sub>out</sub>W<sub>out</sub>D<sub>out</sub>(2K<sup>2</sup>D<sub>in</su
 * https://stackoverflow.com/questions/48915810/pytorch-contiguous  
 * https://pytorch.org/tutorials/beginner/saving_loading_models.html#saving-loading-model-for-inference  
 * https://discuss.pytorch.org/t/why-is-it-when-i-call-require-grad-false-on-all-my-params-my-weights-in-the-network-would-still-update/22126/16
+* PyTorch view, transpose, reshape and permute explained:  
+https://jdhao.github.io/2019/07/10/pytorch_view_reshape_transpose_permute/
 
 ## Keras Stuff
 * Grid Search With Keras:  
