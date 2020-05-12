@@ -125,7 +125,7 @@ FLOPs = H<sub>out</sub>W<sub>out</sub>D<sub>out</sub>(2K<sup>2</sup>D<sub>in</su
 * https://discuss.pytorch.org/t/why-is-it-when-i-call-require-grad-false-on-all-my-params-my-weights-in-the-network-would-still-update/22126/16
 * PyTorch view, transpose, reshape and permute explained:  
 https://jdhao.github.io/2019/07/10/pytorch_view_reshape_transpose_permute/
-* Plotting gradient flow to make sure all layers are learning:  
+* Plotting gradient flow to make sure all layers are learning. See Roshan Rane's answer:    
 https://discuss.pytorch.org/t/check-gradient-flow-in-network/15063/5
 
 ## Keras Stuff
