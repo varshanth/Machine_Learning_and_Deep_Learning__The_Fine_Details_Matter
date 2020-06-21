@@ -139,6 +139,8 @@ https://stackoverflow.com/questions/48127550/early-stopping-with-keras-and-sklea
 ## Miscellaneous
 * 25 Must Know Concepts for Beginners:  
 https://www.analyticsvidhya.com/blog/2017/05/25-must-know-terms-concepts-for-beginners-in-deep-learning/  
+* Set random seeds for all experiments! :  
+https://discuss.pytorch.org/t/what-is-manual-seed/5939/17
 * Different Types of Loss Functions:  
 https://isaacchanghau.github.io/post/loss_functions/  
 * Ranking Loss, Contrastive Loss and Margin Loss Explained - Nice methodology for bringing similar samples together and keeping different samples apart:  
