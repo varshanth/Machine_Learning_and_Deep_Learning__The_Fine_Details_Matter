@@ -141,6 +141,8 @@ https://stackoverflow.com/questions/48127550/early-stopping-with-keras-and-sklea
 https://www.analyticsvidhya.com/blog/2017/05/25-must-know-terms-concepts-for-beginners-in-deep-learning/  
 * Different Types of Loss Functions:  
 https://isaacchanghau.github.io/post/loss_functions/  
+* Ranking Loss, Contrastive Loss and Margin Loss Explained - Nice methodology for bringing similar samples together and keeping different samples apart:  
+https://gombru.github.io/2019/04/03/ranking_loss/  
 * Why do we need GPUs?  
 https://www.analyticsvidhya.com/blog/2017/05/gpus-necessary-for-deep-learning/
 * Understanding Internal Covariate Shift and BatchNorm:  
