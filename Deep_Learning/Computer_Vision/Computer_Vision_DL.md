@@ -163,7 +163,7 @@ https://giou.stanford.edu/GIoU.pdf
 ## Transpose Convolutions
 
 * Use as basics to calculate output:  
-https://d2l.ai/chapter_computer-vision/tranposed-conv.html  
+https://d2l.ai/chapter_computer-vision/transposed-conv.html  
 * A solid way to view convolutions and hence transpose convolutions:  
 https://medium.com/activating-robotic-minds/up-sampling-with-transposed-convolution-9ae4f2df52d0  
 * Visual learning -> Work these out on your own:  
