@@ -151,7 +151,8 @@ https://gombru.github.io/2019/04/03/ranking_loss/
 https://www.analyticsvidhya.com/blog/2017/05/gpus-necessary-for-deep-learning/
 * Understanding Internal Covariate Shift and BatchNorm:  
 https://www.quora.com/Why-does-an-internal-covariate-shift-slow-down-the-training-procedure  
-https://www.youtube.com/embed/Xogn6veSyxA?start=325&end=664&version=3 
+https://www.youtube.com/embed/Xogn6veSyxA?start=325&end=664&version=3   
+https://towardsdatascience.com/batch-norm-explained-visually-how-it-works-and-why-neural-networks-need-it-b18919692739  
 * Weight Normalization & Layer Normalization:  
 http://mlexplained.com/2018/01/10/an-intuitive-explanation-of-why-batch-normalization-really-works-normalization-in-deep-learning-part-1/  
 https://mlexplained.com/2018/01/13/weight-normalization-and-layer-normalization-explained-normalization-in-deep-learning-part-2/  
