@@ -37,6 +37,8 @@ https://ils.unc.edu/courses/2013_spring/inls509_001/lectures/10-EvaluationMetric
 
 ## Optimization Algorithms
 * CS231n Lecture 7 -  Momentum, Nesterov momentum, AdaGrad, RMSProp, Adam
+* AdaGrad, RMSProp, Adam: https://towardsdatascience.com/learning-parameters-part-5-65a2f3583f7d
+* Bias Correction in Adam: https://www.youtube.com/watch?v=-0ZMU-gnm2g
 * https://www.analyticsvidhya.com/blog/2017/03/introduction-to-gradient-descent-algorithm-along-its-variants/
 * Overview of SGD Algorithms by Sebastian Ruder: https://arxiv.org/pdf/1609.04747.pdf
 * Excellent reasoning behind design of optimization techniques with code:  
