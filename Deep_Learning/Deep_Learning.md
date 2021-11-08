@@ -106,38 +106,6 @@ Help To Calculate FLOPs for Conv https://pytorch.org/docs/stable/nn.html#convolu
 MACC = H<sub>out</sub>W<sub>out</sub>K<sup>2</sup>D<sub>in</sub>D<sub>out</sub>  
 FLOPs = H<sub>out</sub>W<sub>out</sub>D<sub>out</sub>(2K<sup>2</sup>D<sub>in</sub> + 1 [For Bias])
 
-
-## Learning Caffe
-* http://rodriguezandres.github.io/2016/04/28/caffe/  
-* http://christopher5106.github.io/deep/learning/2015/09/04/Deep-learning-tutorial-on-Caffe-Technology.html  
-
-## Learning PyTorch
-* http://adventuresinmachinelearning.com/pytorch-tutorial-deep-learning/  
-* https://jhui.github.io/2018/02/09/PyTorch-Variables-functionals-and-Autograd/  
-* https://jhui.github.io/2018/02/09/PyTorch-Basic-operations/  
-* https://cs230-stanford.github.io/pytorch-getting-started.html  
-* https://github.com/yunjey/pytorch-tutorial  
-* https://github.com/bfortuner/pytorch-cheatsheet/blob/master/pytorch-cheatsheet.ipynb
-
-### PyTorch Debugging
-* https://stackoverflow.com/questions/48915810/pytorch-contiguous  
-* https://pytorch.org/tutorials/beginner/saving_loading_models.html#saving-loading-model-for-inference  
-* https://discuss.pytorch.org/t/why-is-it-when-i-call-require-grad-false-on-all-my-params-my-weights-in-the-network-would-still-update/22126/16
-* PyTorch view, transpose, reshape and permute explained:  
-https://jdhao.github.io/2019/07/10/pytorch_view_reshape_transpose_permute/
-* Plotting gradient flow to make sure all layers are learning. See Roshan Rane's answer:    
-https://discuss.pytorch.org/t/check-gradient-flow-in-network/15063/5
-* Performing a Conv operation with a custom kernel:  
-https://discuss.pytorch.org/t/setting-custom-kernel-for-cnn-in-pytorch/27176
-
-## Keras Stuff
-* Grid Search With Keras:  
-https://machinelearningmastery.com/grid-search-hyperparameters-deep-learning-models-python-keras/  
-Grid Search Doc:  
-https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html  
-* Early Stopping with Grid Search in Keras:  
-https://stackoverflow.com/questions/48127550/early-stopping-with-keras-and-sklearn-gridsearchcv-cross-validation  
-
 ## Miscellaneous
 * 25 Must Know Concepts for Beginners:  
 https://www.analyticsvidhya.com/blog/2017/05/25-must-know-terms-concepts-for-beginners-in-deep-learning/  
