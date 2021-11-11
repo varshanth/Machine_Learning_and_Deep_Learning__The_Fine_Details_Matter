@@ -22,6 +22,11 @@ https://jdhao.github.io/2019/07/10/pytorch_view_reshape_transpose_permute/
 https://discuss.pytorch.org/t/check-gradient-flow-in-network/15063/5
 * Performing a Conv operation with a custom kernel:  
 https://discuss.pytorch.org/t/setting-custom-kernel-for-cnn-in-pytorch/27176
+* Loading models vs tensors into GPU: https://stackoverflow.com/questions/59560043/what-is-the-difference-between-model-todevice-and-model-model-todevice
+
+### Best Practices
+* Small Optimizations: https://tigress-web.princeton.edu/~jdh4/PyTorchPerformanceTuningGuide_GTC2021.pdf
+* Saving a model: https://stackoverflow.com/questions/42703500/best-way-to-save-a-trained-model-in-pytorch
 
 ## Keras Stuff
 * Grid Search With Keras:  
