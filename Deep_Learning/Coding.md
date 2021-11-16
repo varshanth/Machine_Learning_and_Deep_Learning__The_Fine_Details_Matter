@@ -41,3 +41,5 @@ https://stackoverflow.com/questions/48127550/early-stopping-with-keras-and-sklea
 * Resizing H5 files makes it grow exponentially. Create dataset once with fixed shape:  https://discuss.pytorch.org/t/save-torch-tensors-as-hdf5/39556/2
 * Make H5 loading faster with multi-processing: https://github.com/pytorch/pytorch/issues/11929
 * Concurrent data manipulations using Single Write Multiple Read: https://docs.h5py.org/en/stable/swmr.html
+* Copy a group from one H5 file to another: https://stackoverflow.com/questions/24510240/how-to-partially-copy-using-python-an-hdf5-file-into-a-new-one-keeping-the-same
+* Testing for H5 instance types. Useful for traversing (and when to stop) a H5 file using only keys and values: https://stackoverflow.com/questions/57013771/how-to-display-elements-of-arrays-in-a-mat-file-in-python/57067674#57067674
