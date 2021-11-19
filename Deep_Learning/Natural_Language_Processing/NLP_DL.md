@@ -14,7 +14,8 @@ These resources are not mine and I do not claim that I have written/composed/pre
 * A visual introduction:  
 https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3
 * An exhaustive explanation with mathematical formulation:  
-https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html
+https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html  
+https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html
 * Some basic code for understanding purposes:  
 https://machinelearningmastery.com/how-does-attention-work-in-encoder-decoder-recurrent-neural-networks/  
 
