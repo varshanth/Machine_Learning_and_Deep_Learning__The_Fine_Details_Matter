@@ -32,4 +32,6 @@ https://towardsdatascience.com/use-torchtext-to-load-nlp-datasets-part-ii-f146c8
 * Reference Documentation:  
 https://torchtext.readthedocs.io/en/latest/data.html  
 
-
+## Courses and Material
+* https://lena-voita.github.io/nlp_course.html
+* https://github.com/yandexdataschool/nlp_course
