@@ -11,6 +11,7 @@
 * https://cs230-stanford.github.io/pytorch-getting-started.html  
 * https://github.com/yunjey/pytorch-tutorial  
 * https://github.com/bfortuner/pytorch-cheatsheet/blob/master/pytorch-cheatsheet.ipynb
+* Extracting outputs of intermediate layers using hooks: https://web.stanford.edu/~nanbhas/blog/forward-hooks-pytorch/
 
 ### PyTorch Debugging
 * https://stackoverflow.com/questions/48915810/pytorch-contiguous  
