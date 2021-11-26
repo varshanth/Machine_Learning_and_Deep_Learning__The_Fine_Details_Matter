@@ -178,6 +178,7 @@ Think of it like (USE RAW FORMAT TO VISUALIZE):
               / x \  
            K e r n e l  
 
+* Transpose convs. induce the checkerboard effect i.e. output of a transpose conv. at different points may accummulate different intensities when the kernel size is not divisible by the stride. This effect is amplified with increase in number of transpose conv. layers. To reduce the effect, apply an interpolation technique for upsampling followed by a conv. layer for smoothing: https://distill.pub/2016/deconv-checkerboard/
 
 ## Data Augmentation:  
 * General strategies:  
