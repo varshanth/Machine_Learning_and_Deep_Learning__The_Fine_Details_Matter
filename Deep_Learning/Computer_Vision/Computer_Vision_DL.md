@@ -166,6 +166,7 @@ https://giou.stanford.edu/GIoU.pdf
 https://d2l.ai/chapter_computer-vision/transposed-conv.html  
 * A solid way to view convolutions and hence transpose convolutions:  
 https://medium.com/activating-robotic-minds/up-sampling-with-transposed-convolution-9ae4f2df52d0  
+https://towardsdatascience.com/understand-transposed-convolutions-and-build-your-own-transposed-convolution-layer-from-scratch-4f5d97b2967  
 * Visual learning -> Work these out on your own:  
 https://medium.com/apache-mxnet/transposed-convolutions-explained-with-ms-excel-52d13030c7e8  
 * Master guide to convolution arithmetic:  
