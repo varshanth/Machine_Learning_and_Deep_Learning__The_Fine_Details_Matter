@@ -10,15 +10,6 @@ These resources are not mine and I do not claim that I have written/composed/pre
 * https://towardsdatascience.com/implementing-word2vec-in-pytorch-skip-gram-model-e6bae040d2fb  
 * https://stats.stackexchange.com/questions/280222/why-the-skip-gram-model-is-called-as-predicting-source-context-words-from-the-ta  
 
-## Attention Mechanism
-* A visual introduction:  
-https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3
-* An exhaustive explanation with mathematical formulation:  
-https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html  
-https://lena-voita.github.io/nlp_course/seq2seq_and_attention.html
-* Some basic code for understanding purposes:  
-https://machinelearningmastery.com/how-does-attention-work-in-encoder-decoder-recurrent-neural-networks/  
-
 ## PyTorch for NLP
 * Intro:  
 http://mlexplained.com/2018/02/08/a-comprehensive-tutorial-to-torchtext/  
