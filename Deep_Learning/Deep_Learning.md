@@ -109,6 +109,8 @@ MACC = H<sub>out</sub>W<sub>out</sub>K<sup>2</sup>D<sub>in</sub>D<sub>out</sub>
 FLOPs = H<sub>out</sub>W<sub>out</sub>D<sub>out</sub>(2K<sup>2</sup>D<sub>in</sub> + 1 [For Bias])
 
 ## Miscellaneous
+* Inductive Biases:  
+https://stackoverflow.com/questions/35655267/what-is-inductive-bias-in-machine-learning  
 * 25 Must Know Concepts for Beginners:  
 https://www.analyticsvidhya.com/blog/2017/05/25-must-know-terms-concepts-for-beginners-in-deep-learning/  
 * Set random seeds for all experiments! :  
