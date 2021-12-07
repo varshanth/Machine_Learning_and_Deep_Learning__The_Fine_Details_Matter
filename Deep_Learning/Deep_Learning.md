@@ -136,6 +136,8 @@ https://en.wikipedia.org/wiki/Bilinear_interpolation
 https://stats.stackexchange.com/questions/164876/tradeoff-batch-size-vs-number-of-iterations-to-train-a-neural-network
 * Why are NN becoming deeper not wider?  
 https://stats.stackexchange.com/questions/222883/why-are-neural-networks-becoming-deeper-but-not-wider   
+* Linear probing: inserting linear classifiers to intermediate layers for diagnosis and measuring efficacy:  
+https://arxiv.org/pdf/1610.01644.pdf  
 
 ### Handling imbalanced data:  
 * (Online) Hard Example Mining:  
