@@ -40,6 +40,8 @@ http://www.robots.ox.ac.uk/~az/lectures/ml/2011/lect4.pdf
 ## Nearest Neighbors
 * The only resource you will ever need to understand: Prof. Victor Lavrenko's:  
 https://www.youtube.com/playlist?list=PLBv09BD7ez_68OwSB97WXyIOvvI5nqi-3
+### Distances
+* Types of distances: http://www.ieee.ma/uaesb/pdf/distances-in-classification.pdf  
 * Mahalanobis Distance:
 1. Explanation by similarity: Gopal Malakar: https://www.youtube.com/watch?v=3IdvoI8O9hU
 2. Explanation through example: Matthew E. Clapham: https://www.youtube.com/watch?v=spNpfmWZBmg
