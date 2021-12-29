@@ -140,11 +140,15 @@ https://towardsdatascience.com/calculating-loss-of-yolo-v3-layer-8878bfaaf1ff
 https://blog.paperspace.com/how-to-implement-a-yolo-v3-object-detector-from-scratch-in-pytorch-part-2/ 
 * YOLOv3 Explained - Complete Including Training Techniques:  
 https://github.com/YunYang1994/cv-notebooks/blob/master/ai_algorithm/YOLOv3.md
+* YOLOv4 Explained:  
+https://medium.com/aiguys/yolo-v4-explained-in-full-detail-5200b77aa825  
+https://becominghuman.ai/explaining-yolov4-a-one-stage-detector-cdac0826cbd7  
 
 * YOLO Papers:  
 YOLOv1: https://arxiv.org/pdf/1506.02640.pdf  
 YOLOv2: https://arxiv.org/pdf/1612.08242.pdf  
 YOLOv3: https://pjreddie.com/media/files/papers/YOLOv3.pdf  
+YOLOv4: https://arxiv.org/abs/2004.10934  
 * Good PyTorch Implementation:  
 https://github.com/eriklindernoren/PyTorch-YOLOv3
 
