@@ -163,6 +163,9 @@ https://arxiv.org/pdf/1902.04103.pdf
 https://giou.stanford.edu/GIoU.pdf  
 ** I do not agree with their stance that minimizing L<sub>n</sub> losses is not correlated to increasing IoU. In their example they just visualize a single (GT & Predicted) corner's L2 norm. In practice, all losses minimize the L<sub>n</sub> norm of all the corners which effectively brings the predicted BBox closer to the GT. You can think of it like 4 magnets around the corners of the GT image pulling the predicted box near it.  
 ** The GIoU metric can be used as a loss. The loss, in addition to maximizing IoU, is also intended to minimize the empty space in the minimal box which contains both the predicted and ground box. By minimizing the empty space, the network learns to align the prediction boxes to the ground truth boxes and reduce the distance between them when their IoU is 0.
+* Distance IoU and Complete IoU Losses:  
+https://medium.com/visionwizard/understanding-diou-loss-a-quick-read-a4a0fbcbf0f0  
+https://arxiv.org/pdf/1911.08287.pdf  
 
 ## Transpose Convolutions
 
